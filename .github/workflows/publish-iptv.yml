@@ -2,72 +2,107 @@ name: Publish IPTV Playlists
 
 on:
   workflow_dispatch:
+
   schedule:
-    # 02:30 UTC = 10:30 China/Japan standard time.
+    # 每天 UTC 02:30
+    # 中国 / 日本标准时间 = 10:30
     - cron: "30 2 * * *"
 
 permissions:
   contents: write
 
-concurrency:
-  group: publish-iptv
-  cancel-in-progress: false
-
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
+        uses: actions/checkout@v6
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-          cache: "pip"
 
       - name: Verify source data
         shell: bash
         run: |
-          test -f data/movie_tv_v59_result.json
-          echo "Source data exists."
+          set -e
+
+          if [ ! -f "data/movie_tv_v59_result.json" ]; then
+            echo "ERROR: data/movie_tv_v59_result.json not found"
+            exit 1
+          fi
+
+          echo "Source data found:"
+          ls -lh data/movie_tv_v59_result.json
 
       - name: Build final playlists
-        run: python scripts/movie_organizer_v6.py
+        shell: bash
+        run: |
+          set -e
+
+          python scripts/movie_organizer_v6.py
 
       - name: Validate generated playlist
         shell: bash
         run: |
-          test -s output/movies_tv_final.m3u
-          grep -q '^#EXTM3U' output/movies_tv_final.m3u
+          set -e
 
-          COUNT=$(grep -c '^#EXTINF:' output/movies_tv_final.m3u || true)
+          FILE="output/movies_tv_final.m3u"
+
+          if [ ! -f "$FILE" ]; then
+            echo "ERROR: $FILE not found"
+            exit 1
+          fi
+
+          FIRST_LINE=$(head -n 1 "$FILE")
+
+          if [ "$FIRST_LINE" != "#EXTM3U" ]; then
+            echo "ERROR: invalid M3U header"
+            exit 1
+          fi
+
+          COUNT=$(grep -c '^#EXTINF:' "$FILE" || true)
+
           echo "Generated EXTINF entries: $COUNT"
 
           if [ "$COUNT" -ne 750 ]; then
-            echo "ERROR: expected 750 playlist entries, got $COUNT"
+            echo "ERROR: expected 750 EXTINF entries, got $COUNT"
             exit 1
           fi
+
+          echo "Playlist validation passed."
 
       - name: Show summary
         shell: bash
         run: |
-          cat data/movie_tv_final_summary.json
+          echo "=== Generated files ==="
+          find output/final -maxdepth 1 -type f -name "*.m3u" -printf "%f\n" | sort
+
+          echo
+          echo "=== Master playlist ==="
+          ls -lh output/movies_tv_final.m3u
+
+          echo
+          echo "=== Summary ==="
+
+          if [ -f "data/movie_tv_final_summary.json" ]; then
+            cat data/movie_tv_final_summary.json
+          fi
 
       - name: Commit and push only when changed
         shell: bash
         run: |
+          set -e
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add             data/movie_tv_final.json             data/movie_tv_final_summary.json             output/movies_tv_final.m3u             output/final
+          git add output data/movie_tv_final.json data/movie_tv_final_summary.json
 
           if git diff --cached --quiet; then
-            echo "No generated-file changes. Nothing to commit."
+            echo "No changes to commit."
             exit 0
           fi
 
