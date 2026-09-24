@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="30ATVClassicMovies.us" group-title="经典电影",30A TV Classic Movies
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+#EXTINF:-1 tvg-id="AnimeVisionClassics.es" group-title="经典电影",Anime Vision Classics
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+#EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us" group-title="经典电影",ARTFLIX Movie Classics
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ARTFLIXMovieClassics.us" group-title="经典电影",ARTFLIX Movie Classics
+https://amogonetworx-artflix-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BETClassicsPlutoTV.us" group-title="经典电影",BET Classics Pluto TV
+https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
+#EXTINF:-1 tvg-id="CartoonClassics.pl" group-title="经典电影",Cartoon Classics
+https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxClassics.us" group-title="经典电影",Cinemax Classics
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 tvg-id="ClassicMoviesChannel.us" group-title="经典电影",Classic Movies Channel
+https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
+#EXTINF:-1 tvg-id="ClassicMovieWesterns.us" group-title="经典电影",Classic Movie Westerns
+https://jmp2.uk/plu-61f33318210549000806a530.m3u8
+#EXTINF:-1 tvg-id="FilmRiseClassicTV.us" group-title="经典电影",FilmRise Classic TV
+https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
+#EXTINF:-1 tvg-id="MTVCLASSICS.de" group-title="经典电影",MTV CLASSICS
+https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
+#EXTINF:-1 tvg-id="NickelodeonClassics.de" group-title="经典电影",Nickelodeon Classics
+https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
+#EXTINF:-1 tvg-id="PlutoClassicMovieWesterns.us" group-title="经典电影",Pluto Classic Movie Westerns
+https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8
+#EXTINF:-1 tvg-id="PlutoTV90sClassics.de" group-title="经典电影",Pluto TV 90's Classics
+https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
+#EXTINF:-1 tvg-id="SBS6Classics.nl" group-title="经典电影",SBS6 Classics
+https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
+#EXTINF:-1 tvg-id="TalkinLiveClassicsTV.us" group-title="经典电影",Talkin Live Classics TV
+https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSClassicMovies.us" group-title="经典电影",TVS Classic Movies
+https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="经典电影",Classic Movies
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="经典电影台" group-title="经典电影",经典电影
+https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
+#EXTINF:-1 tvg-id="370259" group-title="经典电影",经典电影台
+https://stream1.freetv.fun/aa72403ee21188014b4d48c19f6d9b1ca52d877e3151d5e2273952d3f52012ba.ctv

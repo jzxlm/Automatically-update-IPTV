@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Bollygold.in" group-title="老电影",Bollygold
+https://jmp2.uk/stvp-IN4000600Q
+#EXTINF:-1 tvg-id="MovieSphereGold.us" group-title="老电影",MovieSphere Gold
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="NHBollyGold.in" group-title="老电影",NH BollyGold
+https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8

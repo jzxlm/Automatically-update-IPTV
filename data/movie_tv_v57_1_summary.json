@@ -1,0 +1,28 @@
+{
+  "version": "V5.7.1",
+  "input_rows": 1208,
+  "unique_urls_tested": 1208,
+  "playlist_ok": 743,
+  "failed": 465,
+  "success_rate": 61.5,
+  "speed_counts": {
+    "S1": 210,
+    "S2": 265,
+    "S3": 255,
+    "S4": 12,
+    "S5": 1
+  },
+  "failure_counts": {
+    "http_567": 5,
+    "http_403": 47,
+    "http_502": 1,
+    "http_503": 31,
+    "http_404": 12,
+    "sslerror": 6,
+    "not_playlist": 69,
+    "proxyerror": 1,
+    "timeout": 292,
+    "connectionerror": 1
+  },
+  "all_rows_saved": true
+}

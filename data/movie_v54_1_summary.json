@@ -1,0 +1,21 @@
+{
+  "version": "V5.4.1",
+  "final_input_rows": 702,
+  "playlist_ok": 685,
+  "classification_counts": {
+    "恐怖电影": 15,
+    "电影综合": 621,
+    "经典电影": 7,
+    "喜剧电影": 8,
+    "怀旧电影": 9,
+    "惊悚电影": 8,
+    "西部电影": 7,
+    "香港电影": 3,
+    "功夫电影": 5,
+    "动作电影": 8,
+    "剧情电影": 6,
+    "犯罪电影": 3,
+    "武侠电影": 2
+  },
+  "note": "Faster bounded playlist reads. No FFprobe and no visual AI."
+}

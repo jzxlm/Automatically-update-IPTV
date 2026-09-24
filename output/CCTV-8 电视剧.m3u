@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV-8 (720p)" group-title="CCTV-8 电视剧",CCTV-8 (720p)
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 tvg-name="cctv8k超高清" group-title="CCTV-8 电视剧",cctv8k超高清
+https://epg.pw/stream/12c4722b400606e9f17e446f03738627390aa03e60b7cea9a4fe15016cc6e079.m3u8

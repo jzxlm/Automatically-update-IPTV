@@ -1,0 +1,158 @@
+{
+  "version": "V5.6",
+  "existing_rows": 702,
+  "external_playlist_entries": 510,
+  "new_unique_external_sources": 506,
+  "merged_unique_sources": 1208,
+  "drama_matches": 3,
+  "star_matches": 7,
+  "cctv_and_channel_matches": 148,
+  "drama_counts": {
+    "倚天屠龙记": 1,
+    "射雕英雄传": 1,
+    "西游记": 1
+  },
+  "star_counts": {
+    "刘德华": 2,
+    "周星驰": 1,
+    "成龙": 1,
+    "李连杰": 1,
+    "林正英": 1,
+    "甄子丹": 1
+  },
+  "channel_counts": {
+    "CCTV-6 电影": 88,
+    "CCTV": 36,
+    "CCTV-1 综合": 18,
+    "CCTV-8 电视剧": 4,
+    "影视剧场": 2
+  },
+  "fetch_errors": {},
+  "target_hits": [
+    {
+      "name": "倚天屠龙记",
+      "url": "https://live.metshop.top/huya/23734246",
+      "group": "电影｜CCTV-6",
+      "drama_tags": [
+        "倚天屠龙记"
+      ],
+      "star_tags": [],
+      "source_kind": "existing"
+    },
+    {
+      "name": "刘德华电影",
+      "url": "https://live.metshop.top/huya/11342424",
+      "group": "电影｜CCTV-6",
+      "drama_tags": [],
+      "star_tags": [
+        "刘德华"
+      ],
+      "source_kind": "existing"
+    },
+    {
+      "name": "周星驰电影",
+      "url": "https://live.metshop.top/huya/11342412",
+      "group": "电影｜CCTV-6",
+      "drama_tags": [],
+      "star_tags": [
+        "周星驰"
+      ],
+      "source_kind": "existing"
+    },
+    {
+      "name": "射雕英雄传",
+      "url": "https://live.metshop.top/huya/23824164",
+      "group": "电影｜CCTV-6",
+      "drama_tags": [
+        "射雕英雄传"
+      ],
+      "star_tags": [],
+      "source_kind": "existing"
+    },
+    {
+      "name": "成龙电影",
+      "url": "https://live.metshop.top/huya/11342386",
+      "group": "电影｜CCTV-6",
+      "drama_tags": [],
+      "star_tags": [
+        "成龙"
+      ],
+      "source_kind": "existing"
+    },
+    {
+      "name": "李连杰电影",
+      "url": "https://live.metshop.top/huya/11342390",
+      "group": "电影｜CCTV-6",
+      "drama_tags": [],
+      "star_tags": [
+        "李连杰"
+      ],
+      "source_kind": "existing"
+    },
+    {
+      "name": "林正英电影",
+      "url": "https://live.metshop.top/huya/11342421",
+      "group": "电影｜CCTV-6",
+      "drama_tags": [],
+      "star_tags": [
+        "林正英"
+      ],
+      "source_kind": "existing"
+    },
+    {
+      "name": "甄子丹电影",
+      "url": "https://live.metshop.top/huya/11352935",
+      "group": "电影｜CCTV-6",
+      "drama_tags": [],
+      "star_tags": [
+        "甄子丹"
+      ],
+      "source_kind": "existing"
+    },
+    {
+      "name": "电影刘德华",
+      "url": "http://live.metshop.top/huya/11342424?cdn=alicdn",
+      "group": "电影｜CCTV-6",
+      "drama_tags": [],
+      "star_tags": [
+        "刘德华"
+      ],
+      "source_kind": "existing"
+    },
+    {
+      "name": "西游记2",
+      "url": "https://live.metshop.top/huya/29465859",
+      "group": "电影｜CCTV-6",
+      "drama_tags": [
+        "西游记"
+      ],
+      "star_tags": [],
+      "source_kind": "existing"
+    }
+  ],
+  "playlist_sources": [
+    {
+      "name": "iptvjs_cctv",
+      "url": "https://raw.githubusercontent.com/iptvjs/iptv/main/o_s_cn_cctv.m3u"
+    },
+    {
+      "name": "iptvjs_cn_streams",
+      "url": "https://raw.githubusercontent.com/iptvjs/iptv/main/o_s_cn.m3u"
+    },
+    {
+      "name": "iptvjs_cc",
+      "url": "https://raw.githubusercontent.com/iptvjs/iptv/main/ew_cc.m3u"
+    },
+    {
+      "name": "iptvjs_cn",
+      "url": "https://raw.githubusercontent.com/iptvjs/iptv/main/ew_cn.m3u"
+    }
+  ],
+  "notes": [
+    "No video frame extraction.",
+    "No visual AI recognition.",
+    "Drama labels are metadata/name/EPG-style matches.",
+    "CCTV-8 is classified as a TV drama channel.",
+    "Specific drama titles are only tagged when the title appears in source metadata; this does not imply a current broadcast."
+  ]
+}

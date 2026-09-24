@@ -1,0 +1,41 @@
+{
+  "version": "V5.3",
+  "input_rows": 717,
+  "final_ok_rows": 702,
+  "classification_counts": {
+    "恐怖电影": 15,
+    "电影综合": 622,
+    "经典电影": 7,
+    "喜剧电影": 8,
+    "怀旧电影": 9,
+    "惊悚电影": 8,
+    "西部电影": 7,
+    "香港电影": 3,
+    "功夫电影": 5,
+    "动作电影": 8,
+    "犯罪电影": 3,
+    "剧情电影": 6,
+    "武侠电影": 1
+  },
+  "rule_hits": {
+    "恐怖电影 <- horror": 15,
+    "经典电影 <- classic movie": 6,
+    "喜剧电影 <- comedy movie": 8,
+    "怀旧电影 <- 怀旧": 2,
+    "惊悚电影 <- thriller": 8,
+    "西部电影 <- western movie": 7,
+    "香港电影 <- mei ah movie": 3,
+    "怀旧电影 <- nostalgia": 7,
+    "功夫电影 <- kung fu": 3,
+    "动作电影 <- action movie": 7,
+    "犯罪电影 <- crime movie": 2,
+    "剧情电影 <- drama movie": 6,
+    "功夫电影 <- 功夫电影": 1,
+    "武侠电影 <- 武侠电影": 1,
+    "动作电影 <- 动作电影": 1,
+    "功夫电影 <- 功夫片": 1,
+    "犯罪电影 <- 犯罪片": 1,
+    "经典电影 <- 经典电影": 1
+  },
+  "note": "Classification only; no HTTP/deep/FFprobe retest."
+}

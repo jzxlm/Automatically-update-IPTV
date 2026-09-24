@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 group-title="CN",CCTV-Nostalgia Theater
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="RU",Nostalgia
+http://176.118.197.101/Nostalgiya/index.m3u8
+#EXTINF:-1 group-title="US",NOST
+https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
+#EXTINF:-1 group-title="RU",Nostalgia
+http://str2.iptvhd.ru:8080/Nostalgiya/index.m3u8
+#EXTINF:-1 group-title="RU",Nostalgia
+https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Music",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Classic",TVS Nostalgia
+https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8
+#EXTINF:-1 group-title="Classic",TVS Nostalgia Movies
+https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV怀旧剧场
+https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk

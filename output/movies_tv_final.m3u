@@ -1,0 +1,1501 @@
+#EXTM3U
+#EXTINF:-1 group-title="CCTV",ABN Bible Movies Channel
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+#EXTINF:-1 group-title="CCTV",GREAT! movies
+https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="CCTV",Harbin Movie Channel
+https://stream.hrbtv.net/yspd/playlist.m3u8
+#EXTINF:-1 group-title="CCTV",Paramount Movie Channel
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="CCTV",Paramount Movie Channel
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+#EXTINF:-1 group-title="CCTV-1 综合",CCTV-1 (1080p)
+http://69.30.245.50/live/cctv1.m3u8
+#EXTINF:-1 group-title="CCTV-1 综合",CCTV-10 (720p)
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="CCTV-1 综合",CCTV-11 (720p)
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="CCTV-1 综合",CCTV-12 (720p)
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="CCTV-1 综合",CCTV-14 (1080p)
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="CCTV-1 综合",CCTV-15 (1080p)
+https://xykt-fix.github.io/play/a02e/index.m3u8
+#EXTINF:-1 group-title="CCTV-1 综合",CCTV-16 (1080p)
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 group-title="CCTV-1 综合",CCTV-17 (1080p)
+http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 group-title="CCTV-6 电影",CCTV-6
+http://198.204.240.250:82/live/cctv6.m3u8
+#EXTINF:-1 group-title="CCTV-6 电影",CCTV-6
+http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 group-title="CCTV-6 电影",CHC电影
+http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="CCTV-6 电影",东阳影视生活
+http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1 group-title="CCTV-6 电影",人在囧途
+https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
+#EXTINF:-1 group-title="CCTV-6 电影",人在囧途之泰囧
+https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
+#EXTINF:-1 group-title="CCTV-6 电影",人在囧途之港囧
+https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
+#EXTINF:-1 group-title="CCTV-6 电影",倩女幽魂人间道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+#EXTINF:-1 group-title="CCTV-6 电影",倩女幽魂妖魔道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+#EXTINF:-1 group-title="CCTV-6 电影",倩女幽魂道道道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+#EXTINF:-1 group-title="CCTV-6 电影",南宁影视娱乐
+http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+#EXTINF:-1 group-title="CCTV-6 电影",哈尔滨影视
+http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
+#EXTINF:-1 group-title="CCTV-6 电影",寒战
+https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
+#EXTINF:-1 group-title="CCTV-6 电影",我不是药神
+https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
+#EXTINF:-1 group-title="CCTV-6 电影",拆弹专家1
+https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
+#EXTINF:-1 group-title="CCTV-6 电影",拆弹专家2
+https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
+#EXTINF:-1 group-title="CCTV-6 电影",浙江教科影视
+http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
+#EXTINF:-1 group-title="CCTV-6 电影",经典电影
+https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
+#EXTINF:-1 group-title="CCTV-6 电影",让子弹飞
+https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
+#EXTINF:-1 group-title="CCTV-6 电影",韩国电影1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1 group-title="CCTV-6 电影",韩国电影2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+#EXTINF:-1 group-title="CCTV-6 电影",龙门飞甲
+http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
+#EXTINF:-1 group-title="CCTV-8 电视剧",CCTV-8 (720p)
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="CCTV-8 电视剧",CCTV-8K (1080p)
+http://192.151.150.154/live/cctv8k.m3u8
+#EXTINF:-1 group-title="CCTV-8 电视剧",cctv8k超高清
+https://epg.pw/stream/12c4722b400606e9f17e446f03738627390aa03e60b7cea9a4fe15016cc6e079.m3u8
+#EXTINF:-1 group-title="电影",Classic TV Drama
+https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
+#EXTINF:-1 group-title="电影",Pluto TV Drama
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="电影",Pluto TV Drama
+https://jmp2.uk/plu-5b4e92e4694c027be6ecece1.m3u8
+#EXTINF:-1 group-title="电影",Pluto TV Drama Movies
+https://jmp2.uk/plu-62bdb0bcd707b9000739d2e5.m3u8
+#EXTINF:-1 group-title="电影",Pluto TV Series Retro
+https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
+#EXTINF:-1 group-title="电影",Rakuten TV Drama Movies
+https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
+#EXTINF:-1 group-title="电影",Rakuten TV Drama Movies
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8
+#EXTINF:-1 group-title="电影",Rakuten TV Drama Movies
+https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8
+#EXTINF:-1 group-title="电影",Rakuten TV Drama Movies
+https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
+#EXTINF:-1 group-title="电影",Rakuten TV Drama Movies
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1 group-title="恐怖电影",American Horrors
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+#EXTINF:-1 group-title="恐怖电影",Horror Channel
+http://str2.iptvhd.ru:8080/Horror/index.m3u8
+#EXTINF:-1 group-title="恐怖电影",Horror – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61c09e3ac210ed0007606620/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="恐怖电影",Pluto TV Fantasy & Horror
+https://jmp2.uk/plu-685041d936c9361b1921c26c.m3u8
+#EXTINF:-1 group-title="恐怖电影",Pluto TV Horror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="恐怖电影",Pluto TV Horror
+https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
+#EXTINF:-1 group-title="恐怖电影",Pluto TV Horror
+https://jmp2.uk/plu-612cda102f5f18000705e0bf.m3u8
+#EXTINF:-1 group-title="恐怖电影",Pluto TV Horror
+https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
+#EXTINF:-1 group-title="恐怖电影",Pluto TV Horror
+https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
+#EXTINF:-1 group-title="恐怖电影",Pluto TV Horror
+https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
+#EXTINF:-1 group-title="恐怖电影",Pluto TV Horror
+https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
+#EXTINF:-1 group-title="恐怖电影",Pluto TV Horror
+https://jmp2.uk/plu-63a19cb7847a090007f230d7.m3u8
+#EXTINF:-1 group-title="恐怖电影",Pluto TV Horror
+https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8
+#EXTINF:-1 group-title="恐怖电影",Pluto TV Horror
+https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8
+#EXTINF:-1 group-title="恐怖电影",Pluto TV Horror-Serien
+https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8
+#EXTINF:-1 group-title="惊悚电影",Cine Thrillers by Pluto TV
+https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
+#EXTINF:-1 group-title="惊悚电影",Film Thriller – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="惊悚电影",Filmes Suspense
+https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
+#EXTINF:-1 group-title="惊悚电影",Movies Thriller
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+#EXTINF:-1 group-title="惊悚电影",Pluto TV Film Thriller
+https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
+#EXTINF:-1 group-title="惊悚电影",Pluto TV Thrillers
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="惊悚电影",Pluto TV Thrillers
+https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
+#EXTINF:-1 group-title="惊悚电影",Pluto TV Thrillers
+https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8
+#EXTINF:-1 group-title="惊悚电影",Pluto TV Thrillers
+https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
+#EXTINF:-1 group-title="功夫电影",NonStop Kung Fu
+https://jmp2.uk/plu-6728d2be529ac9000830dc15.m3u8
+#EXTINF:-1 group-title="功夫电影",NonStop Kung Fu
+https://jmp2.uk/plu-6728d30cdaad7f000881d979.m3u8
+#EXTINF:-1 group-title="功夫电影",NonStop Kung Fu
+https://jmp2.uk/plu-6728d33f030a2c0008edf4be.m3u8
+#EXTINF:-1 group-title="香港电影",Mei Ah Movie Channel
+http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
+#EXTINF:-1 group-title="香港电影",Mei Ah Movie Channel
+http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
+#EXTINF:-1 group-title="香港电影",Mei Ah Movie Channel
+http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
+#EXTINF:-1 group-title="电视剧",30A TV Classic Movies
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+#EXTINF:-1 group-title="电视剧",ARTFLIX Movie Classics
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="电视剧",ARTFLIX Movie Classics
+https://amogonetworx-artflix-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="电视剧",BET Classics Pluto TV
+https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
+#EXTINF:-1 group-title="电视剧",Cinemax Classics
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 group-title="电视剧",Classic Movie Westerns
+https://jmp2.uk/plu-61f33318210549000806a530.m3u8
+#EXTINF:-1 group-title="电视剧",Classic Movies
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="电视剧",Classic Movies Channel
+https://jmp2.uk/plu-561c5b0dada51f8004c4d855.m3u8
+#EXTINF:-1 group-title="电视剧",FilmRise Classic TV
+https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
+#EXTINF:-1 group-title="电视剧",MTV CLASSICS
+https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
+#EXTINF:-1 group-title="电视剧",Nickelodeon Classics
+https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
+#EXTINF:-1 group-title="电视剧",Pluto Classic Movie Westerns
+https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8
+#EXTINF:-1 group-title="电视剧",Pluto TV 90's Classics
+https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
+#EXTINF:-1 group-title="电视剧",Talkin Live Classics TV
+https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
+#EXTINF:-1 group-title="电视剧",TVS Classic Movies
+https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 group-title="其他",00s Replay
+https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
+#EXTINF:-1 group-title="其他",24 Hour Free Movies
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+#EXTINF:-1 group-title="其他",3Cat Plats bruts
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+#EXTINF:-1 group-title="其他",4ever Cinema
+http://stream.mcquack.net/258/index.m3u8
+#EXTINF:-1 group-title="其他",50 Cent Action
+https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
+#EXTINF:-1 group-title="其他",70s Cinema
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=96&deviceId=5f4d878d3d19b30007d2e782&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="其他",70s Cinema
+https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
+#EXTINF:-1 group-title="其他",80s Rewind
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=95&deviceId=5ca525b650be2571e3943c63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="其他",80s Rewind
+https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
+#EXTINF:-1 group-title="其他",90s Throwback
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=94&deviceId=5f4d86f519358a00072b978e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="其他",90s Throwback
+https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
+#EXTINF:-1 group-title="其他",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="其他",Adrenalina Pura TV
+https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+#EXTINF:-1 group-title="其他",Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="其他",Allo Cine
+https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+#EXTINF:-1 group-title="其他",AMC
+http://41.205.93.154/AMC/index.m3u8
+#EXTINF:-1 group-title="其他",AMC Europe
+http://88.212.15.19/live/amc_hun/index.m3u8
+#EXTINF:-1 group-title="其他",Amedia Hit
+http://flussonic.linkintel.ru/amedia-hit/index.m3u8
+#EXTINF:-1 group-title="其他",Ando TV (1080p)
+http://play.kankanlive.com/live/1711956137852982.m3u8
+#EXTINF:-1 group-title="其他",Anhui TV
+https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
+#EXTINF:-1 group-title="其他",Anshun Comprehensive News Channel
+https://hplayer1.juyun.tv/camera/154379194.m3u8
+#EXTINF:-1 group-title="其他",Armenia Premium
+http://stream.mcquack.net/123/index.m3u8
+#EXTINF:-1 group-title="其他",Asianet Movies
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
+#EXTINF:-1 group-title="其他",Aurora Media Films
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1 group-title="其他",AVI Rewind
+http://45.70.201.81:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="其他",AWTV
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 group-title="其他",AXN Adria
+http://5.57.74.130:8000/play/a0at/index.m3u8
+#EXTINF:-1 group-title="其他",AXN Black
+http://185.227.34.179:8080/axn-black/index.m3u8
+#EXTINF:-1 group-title="其他",AXN CEE
+http://88.212.15.19/live/axn_hun/index.m3u8
+#EXTINF:-1 group-title="其他",AXN Crime
+http://88.212.15.19/live/viasat_film/index.m3u8
+#EXTINF:-1 group-title="其他",AXN Latin America
+http://15.204.246.24:8080/AXNHD/index.m3u8
+#EXTINF:-1 group-title="其他",AXN Movies
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+#EXTINF:-1 group-title="其他",B4U Bhojpuri
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+#EXTINF:-1 group-title="其他",B4U Kadak
+http://107.167.16.138/b4ukadak/index.m3u8?token=test
+#EXTINF:-1 group-title="其他",B4U Movies
+https://cdn.pishow.tv/ott/live/419/master.m3u8
+#EXTINF:-1 group-title="其他",B4U Movies
+https://mumt06.tangotv.in/qYyB8fXVB4UMOVIES/index.m3u8
+#EXTINF:-1 group-title="其他",B4U Movies
+https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
+#EXTINF:-1 group-title="其他",Battlestar Galactica
+https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
+#EXTINF:-1 group-title="其他",BET Cinema
+https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
+#EXTINF:-1 group-title="其他",BET Comedy Movies
+https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
+#EXTINF:-1 group-title="其他",BET Visionaries
+https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8
+#EXTINF:-1 group-title="其他",Beverly Hillbillies
+https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
+#EXTINF:-1 group-title="其他",Bhojpuri Cinema
+https://cdn.pishow.tv/ott/live/1033/master.m3u8
+#EXTINF:-1 group-title="其他",Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="其他",Bhojpuri Cinema
+https://mumt05.tangotv.in/87NeALx2BHOJPURICINEMA/index.m3u8
+#EXTINF:-1 group-title="其他",Bhojpuri Cinema
+https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8
+#EXTINF:-1 group-title="其他",BIG BROTHER CLASSIC
+https://jmp2.uk/plu-663e09e4b18d700008e48dcf.m3u8
+#EXTINF:-1 group-title="其他",Bigtime
+https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
+#EXTINF:-1 group-title="其他",BIZ Cinema
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
+#EXTINF:-1 group-title="其他",BIZ Cinema
+https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="其他",Black Cinema
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="其他",Bollygold
+https://jmp2.uk/stvp-IN4000600Q
+#EXTINF:-1 group-title="其他",Bollywood
+http://str2.iptvhd.ru:8080/Bollywood_HD/index.m3u8
+#EXTINF:-1 group-title="其他",Bollywood Film
+https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8
+#EXTINF:-1 group-title="其他",Bollywood HD
+https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
+#EXTINF:-1 group-title="其他",Bolt
+http://stream.mcquack.net/73/index.m3u8
+#EXTINF:-1 group-title="其他",Bonanza
+https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
+#EXTINF:-1 group-title="其他",Boreal
+https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="其他",Bread TV面包台 (720p)
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="其他",BRIDGE Classic
+http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 group-title="其他",BRIDGE Classic
+http://str2.iptvhd.ru:8080/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 group-title="其他",BRIDGE Classic
+http://stream.mcquack.net/272/index.m3u8
+#EXTINF:-1 group-title="其他",BRIDGE Classic
+https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="其他",BS Film
+https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8
+#EXTINF:-1 group-title="其他",BS Film
+https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8
+#EXTINF:-1 group-title="其他",Cafe Film
+https://cafefhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="其他",Canal Cine Dios
+https://canal.mediaserver.com.co/live/cinedios.m3u8
+#EXTINF:-1 group-title="其他",Canal+ Action Europe
+http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
+#EXTINF:-1 group-title="其他",Canal+ Cinemas
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1 group-title="其他",CCTV+ 1 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 group-title="其他",CCTV+ 2 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 group-title="其他",CCTV-2 (720p)
+http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="其他",CCTV-3 (720p)
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="其他",CCTV-4 America (1080p)
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 group-title="其他",CCTV-4 Asia (720p)
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="其他",CCTV-4K (1080p)
+http://198.204.240.250:82/live/cctv4k.m3u8
+#EXTINF:-1 group-title="其他",CCTV-7 (720p)
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="其他",CCTV-9 (576i)
+https://xykt-fix.github.io/Y77.m3u8
+#EXTINF:-1 group-title="其他",CCTV-Billiards (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+#EXTINF:-1 group-title="其他",CCTV-Culture of Quality (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+#EXTINF:-1 group-title="其他",CCTV-Golf & Tennis (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 group-title="其他",CCTV-Health (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+#EXTINF:-1 group-title="其他",CCTV-Nostalgia Theater
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="其他",CCTV-Storm Football (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 group-title="其他",CCTV-Storm Music (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+#EXTINF:-1 group-title="其他",CCTV-Storm Theater (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="其他",CCTV-The First Theater (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="其他",CCTV-Weapon & Technology (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1 group-title="其他",CCTV-Women's Fashion (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+#EXTINF:-1 group-title="其他",CCTV-World Geography (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1 group-title="其他",CCTV4中文国际欧洲
+https://epg.pw/stream/e9df8fe337dd6bacbf98516a34c0b0c94b3d2a02339529dea3de3769add35fc9.m3u8
+#EXTINF:-1 group-title="其他",CCTV4中文国际美洲
+https://epg.pw/stream/c3b4c0fa59357628b823a008e742caa5e3ea18df81216adbc62f3aa7afe556f0.m3u8
+#EXTINF:-1 group-title="其他",CCTV怀旧剧场
+https://epg.pw/stream/188c041c330736b956fe8f41af7bf90cac0dd06699f977752ac93f0359de4a23.m3u8
+#EXTINF:-1 group-title="其他",CCTV第一剧场
+https://epg.pw/stream/ba55b8e8aea7622044ad6925d44966b26283edbe03be0646f351292a22e1027c.m3u8
+#EXTINF:-1 group-title="其他",CCTV风云音乐
+https://epg.pw/stream/c5cdf98a2ec7cc0b65f33cdf0f06ab09297ea13408e63416e671eb3e8ae1ae9f.m3u8
+#EXTINF:-1 group-title="其他",CGTN (1080p)
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="其他",CGTN Documentary (1080p)
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="其他",CGTN French (1080p)
+http://145.239.5.177/214/index.m3u8
+#EXTINF:-1 group-title="其他",CGTN Global Biz (1080p)
+https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
+#EXTINF:-1 group-title="其他",Charge!
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:-1 group-title="其他",Chifeng Comprehensive News Chanel
+http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+#EXTINF:-1 group-title="其他",China Travel (1080p)
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 group-title="其他",Chuxiong News Channel [Not 24/7]
+http://hwapi.yntv.net/ew265l/848y54.m3u8
+#EXTINF:-1 group-title="其他",Cin Cin
+https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
+#EXTINF:-1 group-title="其他",CINDIE TV
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:-1 group-title="其他",Cine Adrenalina
+https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
+#EXTINF:-1 group-title="其他",Cine Familiar
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8
+#EXTINF:-1 group-title="其他",Cine Friki
+https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Cine Hispano
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
+#EXTINF:-1 group-title="其他",Cine Premiere
+https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
+#EXTINF:-1 group-title="其他",Cine Premium
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
+#EXTINF:-1 group-title="其他",Cine Retro by Pluto TV
+https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
+#EXTINF:-1 group-title="其他",Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 group-title="其他",Cine Western
+https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+#EXTINF:-1 group-title="其他",Cine+ Classic
+http://99.27.51.147/CineClassic/index.m3u8
+#EXTINF:-1 group-title="其他",Cine+ Hit
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw%3D%3D&master=539
+#EXTINF:-1 group-title="其他",Cine+ Legend
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&master=568
+#EXTINF:-1 group-title="其他",Cinema
+http://flussonic.linkintel.ru/cinema/index.m3u8
+#EXTINF:-1 group-title="其他",Cinema
+http://str2.iptvhd.ru:8080/cinema/index.m3u8
+#EXTINF:-1 group-title="其他",Cinema
+https://cdn1.skygo.mn/live/disk1/CinemaTV/HLS-FTA/CinemaTV.m3u8
+#EXTINF:-1 group-title="其他",Cinema
+https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
+#EXTINF:-1 group-title="其他",Cinema
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="其他",Cinema Italiano – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="其他",Cinemax Hits
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 group-title="其他",Cinevault 80s
+https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Cinevault Westerns
+https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",City Eden Classic Music
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1 group-title="其他",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 group-title="其他",Classic Cinema
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+#EXTINF:-1 group-title="其他",Classic Music
+http://str2.iptvhd.ru:8080/c-music/index.m3u8
+#EXTINF:-1 group-title="其他",Classic Music
+http://stream.mcquack.net/312/index.m3u8
+#EXTINF:-1 group-title="其他",Classic TV
+https://clshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="其他",Classic TV Comedy
+https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
+#EXTINF:-1 group-title="其他",Classic TV Crime Drama
+https://jmp2.uk/plu-61325c4f982acd000723287e.m3u8
+#EXTINF:-1 group-title="其他",Classic TV: Families
+https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
+#EXTINF:-1 group-title="其他",Classic TV: Families
+https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8
+#EXTINF:-1 group-title="其他",Classica
+https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
+#EXTINF:-1 group-title="其他",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 group-title="其他",CND Film Middle School Channel
+http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
+#EXTINF:-1 group-title="其他",Colors Cineplex Bollywood
+http://202.70.146.135:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="其他",Diagnosis Murder
+https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8
+#EXTINF:-1 group-title="其他",Discovering China (1080p)
+https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
+#EXTINF:-1 group-title="其他",Doctor Who Classic
+https://aegis-cloudfront-1.tubi.video/34cd3ae2-bb20-4594-af20-01f241a525ba/playlist.m3u8
+#EXTINF:-1 group-title="其他",Doctor Who Classic
+https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Doctor Who Classic
+https://bbc-classicdrwho-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Doctor Who Classic
+https://jmp2.uk/plu-5ce4475cd43850831ca91ce7.m3u8
+#EXTINF:-1 group-title="其他",Doctor Who Classic
+https://jmp2.uk/plu-62bdad934d73d50007a82472.m3u8
+#EXTINF:-1 group-title="其他",Dragon TV International
+https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8
+#EXTINF:-1 group-title="其他",DUST
+https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="其他",Dynasty
+https://jmp2.uk/plu-622f48de713e510007f85808.m3u8
+#EXTINF:-1 group-title="其他",E!
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 group-title="其他",EBS Cinema
+https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
+#EXTINF:-1 group-title="其他",Enter-Film
+http://str2.iptvhd.ru:8080/enter_film_ua/index.m3u8
+#EXTINF:-1 group-title="其他",Enter-Film
+http://stream.mcquack.net/322/index.m3u8
+#EXTINF:-1 group-title="其他",ETV Cinema
+https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="其他",FAN
+http://stream.mcquack.net/420/index.m3u8
+#EXTINF:-1 group-title="其他",Film Azione – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="其他",Film Cafe
+http://88.212.15.19/live/film_cafe/index.m3u8
+#EXTINF:-1 group-title="其他",Film Classici – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e24/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="其他",Film Commedia – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="其他",Film Drama – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="其他",Film Romantici – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="其他",Film – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="其他",Film+
+http://88.212.15.19/live/film_plus_hun_atk/index.m3u8
+#EXTINF:-1 group-title="其他",Film+
+http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
+#EXTINF:-1 group-title="其他",Film4
+http://88.212.15.19/live/film4_hun/index.m3u8
+#EXTINF:-1 group-title="其他",Filmax
+https://s3.ideationtec.live/Filmax/Filmax.m3u8
+#EXTINF:-1 group-title="其他",FILMBOX+ Comedy
+http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="其他",FILMBOX+ Comedy
+http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="其他",FILMBOX+ Comedy
+https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
+#EXTINF:-1 group-title="其他",FILMBOX+ Emotion
+http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="其他",FILMBOX+ Emotion
+http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="其他",FILMBOX+ Emotion
+https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8
+#EXTINF:-1 group-title="其他",FILMBOX+ Festival
+https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="其他",FILMBOX+ Festival
+https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
+#EXTINF:-1 group-title="其他",FILMBOX+ Festival
+https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8
+#EXTINF:-1 group-title="其他",FILMBOX+ Hits
+http://88.212.15.19/live/fb_premium_hungary/index.m3u8
+#EXTINF:-1 group-title="其他",FILMBOX+ Hits
+http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="其他",FILMBOX+ Hits
+https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
+#EXTINF:-1 group-title="其他",FILMBOX+ Hits
+https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8
+#EXTINF:-1 group-title="其他",FILMBOX+ Love & Crime
+http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="其他",FILMBOX+ Love & Crime
+https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
+#EXTINF:-1 group-title="其他",FILMBOX+ Love & Crime
+https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
+#EXTINF:-1 group-title="其他",FILMBOX+ One
+http://88.212.15.19/live/test_filmbox/playlist.m3u8
+#EXTINF:-1 group-title="其他",FILMBOX+ One
+http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="其他",FILMBOX+ One
+https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
+#EXTINF:-1 group-title="其他",FilmRise Anime
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="其他",FilmRise Western
+https://dz05z8iljgvbe.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="其他",FilmUA Live
+https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
+#EXTINF:-1 group-title="其他",FilmUADrama
+http://88.99.215.227/FilmUADrama/index.m3u8
+#EXTINF:-1 group-title="其他",FilmUADrama
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Flicks of Fury
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="其他",Flicks of Fury
+https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
+#EXTINF:-1 group-title="其他",FrightFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2229
+#EXTINF:-1 group-title="其他",GEM Pixel
+https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
+#EXTINF:-1 group-title="其他",Girlfriends Films
+https://jmp2.uk/plu-66ba1e4446762a000855cd87.m3u8
+#EXTINF:-1 group-title="其他",Gold Star
+https://moviethls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="其他",Goldmines 2
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
+#EXTINF:-1 group-title="其他",Goldmines Action
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
+#EXTINF:-1 group-title="其他",Goldmines Bollywood
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
+#EXTINF:-1 group-title="其他",Goldmines Movies
+https://cdn.pishow.tv/ott/live/1461/master.m3u8
+#EXTINF:-1 group-title="其他",Goldmines Movies
+https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
+#EXTINF:-1 group-title="其他",Goldmines Movies
+https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
+#EXTINF:-1 group-title="其他",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 group-title="其他",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="其他",Gravitas Movies
+https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
+#EXTINF:-1 group-title="其他",GREAT! romance
+https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
+#EXTINF:-1 group-title="其他",Grjngo Western Movies
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Grjngo Western Movies
+https://amogonetworx-grjngo-3-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Grjngo Western Movies
+https://amogonetworx-grjngo-3-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Grjngo Western Movies
+https://amogonetworx-grjngo-3-lu.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Grjngo Western Movies
+https://amogonetworx-grjngo-3-no.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Grjngo Western Movies
+https://amogonetworx-grjngo-3-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Groovy TV
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Guangxi Variety & Travel Channel
+http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他",Guangzhou TV
+https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 group-title="其他",Hallmark Movies & More
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1 group-title="其他",Hallmark Movies & More
+https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
+#EXTINF:-1 group-title="其他",Happy Days
+https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8
+#EXTINF:-1 group-title="其他",Harbin Comprehensive News Channel
+https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
+#EXTINF:-1 group-title="其他",HBO Movies
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 group-title="其他",Hebei TV (2160p)
+https://event.pull.hebtv.com/live/live101.m3u8
+#EXTINF:-1 group-title="其他",Hogan's Heroes
+https://jmp2.uk/plu-68939e206727ec919bb39061.m3u8
+#EXTINF:-1 group-title="其他",HomePlus
+https://homeplushls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="其他",HOT Cinema 1
+http://str2.iptvhd.ru:8080/Gold/index.m3u8
+#EXTINF:-1 group-title="其他",HOT Cinema 2
+http://str2.iptvhd.ru:8080/action/index.m3u8
+#EXTINF:-1 group-title="其他",HOT Cinema 3
+http://str2.iptvhd.ru:8080/fun/index.m3u8
+#EXTINF:-1 group-title="其他",HOT Cinema 4
+http://str2.iptvhd.ru:8080/drama/index.m3u8
+#EXTINF:-1 group-title="其他",Hunan TV (2160p)
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 group-title="其他",I Love Lucy
+https://jmp2.uk/plu-63a2f1dda0d69700078b7cba.m3u8
+#EXTINF:-1 group-title="其他",ICC plus
+https://icchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="其他",IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1 group-title="其他",iFilm
+https://live.presstv.co.uk/hls/ifilmfa.m3u8
+#EXTINF:-1 group-title="其他",iFilm 2
+https://live.presstv.co.uk/hls/ifilm2.m3u8
+#EXTINF:-1 group-title="其他",iFilm Arabic
+https://live.presstv.co.uk/hls/ifilmar.m3u8
+#EXTINF:-1 group-title="其他",iFilm English
+https://live.presstv.co.uk/hls/ifilmen.m3u8
+#EXTINF:-1 group-title="其他",iFilm Persian
+https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8
+#EXTINF:-1 group-title="其他",Indywood TV
+https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
+#EXTINF:-1 group-title="其他",Itage TV
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
+#EXTINF:-1 group-title="其他",JAG
+https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8
+#EXTINF:-1 group-title="其他",Jiangsu Public & News Channel
+https://jiangning-tv-playing-t.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
+#EXTINF:-1 group-title="其他",JTBS Classic
+https://jtbsclassic.dpdns.org/live.m3u8
+#EXTINF:-1 group-title="其他",Kangba TV
+http://110.185.237.164:8888/hls/30/index.m3u8
+#EXTINF:-1 group-title="其他",KCM
+https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="其他",Kino 1
+http://stream.mcquack.net/395/index.m3u8
+#EXTINF:-1 group-title="其他",Kino 2
+http://stream.mcquack.net/465/index.m3u8
+#EXTINF:-1 group-title="其他",Kino Barrandov
+http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
+#EXTINF:-1 group-title="其他",Kinoliving
+http://stream.mcquack.net/445/index.m3u8
+#EXTINF:-1 group-title="其他",Kinoteatr
+https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="其他",Kinowood
+http://stream.mcquack.net/446/index.m3u8
+#EXTINF:-1 group-title="其他",Kuriakos Cine
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 group-title="其他",LAMIL35 TV
+https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
+#EXTINF:-1 group-title="其他",Lanzhou Comprehensive News Channel
+https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
+#EXTINF:-1 group-title="其他",Lanzhou Culture & Tourism Channel
+https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
+#EXTINF:-1 group-title="其他",Lollywood HD TV
+https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8
+#EXTINF:-1 group-title="其他",Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 group-title="其他",MacGyver
+https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
+#EXTINF:-1 group-title="其他",MacGyver
+https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8
+#EXTINF:-1 group-title="其他",Made In Hollywood
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Magyar Mozi TV
+http://88.212.15.19/live/mozi/index.m3u8
+#EXTINF:-1 group-title="其他",Maha Movie
+https://cdn.pishow.tv/ott/live/10007/master.m3u8
+#EXTINF:-1 group-title="其他",Manoranjan Grand
+https://mumt06.tangotv.in/qYyB8fXVMANORANJANGRAND/index.m3u8
+#EXTINF:-1 group-title="其他",Manoranjan Movies
+https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
+#EXTINF:-1 group-title="其他",Matlock
+https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8
+#EXTINF:-1 group-title="其他",Maverick Black Cinema
+https://aegis-cloudfront-1.tubi.video/55607a73-d5bd-4a09-979e-5933354469ee/playlist.m3u8
+#EXTINF:-1 group-title="其他",Maverick Black Cinema
+https://maverick-maverick-black-cinema-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Maverick Black Cinema
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",MBC+ Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+#EXTINF:-1 group-title="其他",Medium
+https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
+#EXTINF:-1 group-title="其他",Mega Cine TV
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Merry Christmas from Viafree
+https://jmp2.uk/plu-63048147b09fd60007847a08.m3u8
+#EXTINF:-1 group-title="其他",Meta Film TV
+https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="其他",MH One Movies
+https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8
+#EXTINF:-1 group-title="其他",Mission Impossible
+https://jmp2.uk/plu-62ab579258cb950007811aad.m3u8
+#EXTINF:-1 group-title="其他",Mission Impossible
+https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8
+#EXTINF:-1 group-title="其他",Mix Hollywood
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+#EXTINF:-1 group-title="其他",MNX
+http://59.103.38.46:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="其他",More TV Sci-fi
+https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
+#EXTINF:-1 group-title="其他",Mosfilm Gold Collection
+http://stream.mcquack.net/369/index.m3u8
+#EXTINF:-1 group-title="其他",Mosfilm Gold Collection
+https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="其他",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 group-title="其他",Movie Music by Stingray
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="其他",MovieBox
+https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
+#EXTINF:-1 group-title="其他",Moviedome
+https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
+#EXTINF:-1 group-title="其他",Movies Action
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+#EXTINF:-1 group-title="其他",Movies!
+https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
+#EXTINF:-1 group-title="其他",MovieSphere
+https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8
+#EXTINF:-1 group-title="其他",MovieSphere
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="其他",MovieSphere
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",MovieSphere
+https://jmp2.uk/plu-6401d85a49839300087b116c.m3u8
+#EXTINF:-1 group-title="其他",MovieSphere
+https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
+#EXTINF:-1 group-title="其他",MovieSphere
+https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8
+#EXTINF:-1 group-title="其他",MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",MovieSphere Gold
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+#EXTINF:-1 group-title="其他",Mozi+
+http://88.212.15.19/live/mozi_plusz/index.m3u8
+#EXTINF:-1 group-title="其他",Moziverzum
+http://88.212.15.19/live/moziverzum/index.m3u8
+#EXTINF:-1 group-title="其他",MTV Classic
+https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
+#EXTINF:-1 group-title="其他",MTV Classic
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+#EXTINF:-1 group-title="其他",MTV Classic
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+#EXTINF:-1 group-title="其他",Music Box Classic
+http://88.212.15.19/live/mb_classic/index.m3u8
+#EXTINF:-1 group-title="其他",MWD Movies
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:-1 group-title="其他",My Cinema Europe
+https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8
+#EXTINF:-1 group-title="其他",MyTime Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",MyTime Movie Network
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",MyTime Movie Network
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",MyTime Movie Network
+https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",MyTime Movie Network East
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",MyTime Movie Network East
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",MyTime Movie Network East
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Nashe Lubimoe Kino Ukraine
+http://stream.mcquack.net/456/index.m3u8
+#EXTINF:-1 group-title="其他",Nei Monggol TV (1080i) [Not 24/7]
+http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+#EXTINF:-1 group-title="其他",Nei Monggol TV 2 Mongolian Culture Channel (1080i) [Not 24/7]
+http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
+#EXTINF:-1 group-title="其他",NEW K.MOVIES
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
+#EXTINF:-1 group-title="其他",Next HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 group-title="其他",NH BollyFlix
+https://jmp2.uk/stvp-IN46000140Q
+#EXTINF:-1 group-title="其他",NH BollyGold
+https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8
+#EXTINF:-1 group-title="其他",Nickelodeon Classico
+https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
+#EXTINF:-1 group-title="其他",NOST
+https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
+#EXTINF:-1 group-title="其他",Nostalgia
+http://176.118.197.101/Nostalgiya/index.m3u8
+#EXTINF:-1 group-title="其他",Nostalgia
+http://str2.iptvhd.ru:8080/Nostalgiya/index.m3u8
+#EXTINF:-1 group-title="其他",Nostalgia
+https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="其他",ON Movies
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+#EXTINF:-1 group-title="其他",Oscar Movies Bhojpuri
+https://cdn.pishow.tv/ott/live/233/master.m3u8
+#EXTINF:-1 group-title="其他",Oscar Movies Bhojpuri
+https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8
+#EXTINF:-1 group-title="其他",Paramount Network
+http://4.30.180.36:8420/paramount/index.m3u8?token=test
+#EXTINF:-1 group-title="其他",Paramount Network de Pluto TV
+https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
+#EXTINF:-1 group-title="其他",Paramount+ Picks
+https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
+#EXTINF:-1 group-title="其他",Persiana Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="其他",Persiana Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="其他",Persiana Iranian
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="其他",Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="其他",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="其他",Persiana Plus
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="其他",Pitaara
+https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV 80's Action
+https://jmp2.uk/plu-66d717d2abec540008ba7ec4.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV A La Mexicana
+https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Action
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="其他",Pluto TV Action
+https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Action
+https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Action Movies
+https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Alberto Sordi
+https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Anime Movies
+https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Bang Bang
+https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Bud & Terence
+https://jmp2.uk/plu-64be7398e4391c0008cdedfe.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Bud & Terence
+https://jmp2.uk/plu-65b915b1dc10a40008d53797.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Christmas tutto l'anno
+https://jmp2.uk/plu-612e05b885183d0007958101.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Cine Classicos
+https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Cine Comedia
+https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Cine Crime
+https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Cine Crimen
+https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Cine de autor
+https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Cine Drama
+https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Cine Drama
+https://jmp2.uk/plu-5f1ac947dcd00d0007937c08.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Cine Estelar
+https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Cine Inspirador
+https://jmp2.uk/plu-6806d519fea7414f33f57016.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Cine Romance
+https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Cine Sucessos
+https://jmp2.uk/plu-5f120e94a5714d00074576a1.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Cine Suspenso
+https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Cinema Italiano
+https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Cinema Orientale
+https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Classic TV
+https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Classic TV Variety
+https://jmp2.uk/plu-68d25c623175a2780d051d3a.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Comedy
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="其他",Pluto TV Comedy Movies
+https://jmp2.uk/plu-5c363c2411c5ca053f198f97.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Comedy Movies
+https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Crime Drama
+https://jmp2.uk/plu-5f31fd1b4c510e00071c3103.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Crime Movies
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="其他",Pluto TV Crime Movies
+https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Cult Films
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=109&deviceId=5c665db3e6c01b72c4977bc2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="其他",Pluto TV Cult Films
+https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Cult Films
+https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Danske klassikere
+https://jmp2.uk/plu-67d2b814fe36d6e7b1d2318a.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Desenhos Classicos
+https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Documentaries
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=91&deviceId=5b85a7582921777994caea63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="其他",Pluto TV Family Movie Club
+https://jmp2.uk/plu-5dc3fc6b9133f500099c7d98.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Fantastic
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="其他",Pluto TV Film
+https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Film
+https://jmp2.uk/plu-61c09515fbb4b50007d221f5.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Film
+https://jmp2.uk/plu-61c0afa0a09bbe00078f8378.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Film
+https://jmp2.uk/plu-61c1e1e55deef000075aed0c.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Film Ancora Piu Romantici
+https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Film Azione
+https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Film Commedia
+https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Film Romantici
+https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Film Storici
+https://jmp2.uk/plu-68750875759366af05a151ce.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Filmes Acao
+https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Filmes Aventura
+https://jmp2.uk/plu-66c79a4262e5510008ff68a5.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Filmes de Luta
+https://jmp2.uk/plu-6806d62369aec5b19cd628c0.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Filmes Nacionais
+https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Franchise Favorites
+https://jmp2.uk/plu-68fbf8101d26140175db8b58.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Haialarm
+https://jmp2.uk/plu-69b015c5d29cc97de7da4af8.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Harlequin
+https://jmp2.uk/plu-68c01b9a6bdcf3b9a64febcc.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Humor
+https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Icons
+https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV John Wayne
+https://jmp2.uk/plu-655caaaac0fc8800086f5d99.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Klassiske tegnefilm
+https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Klassiske tegnefilmer
+https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Komedi
+https://jmp2.uk/plu-61c0b36d18447e000717d686.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Komedie
+https://jmp2.uk/plu-61c1e3a679a4390007c78136.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Kult Comedies
+https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Kultfilm
+https://jmp2.uk/plu-63dbe7ed51f5d000083e9499.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Kultfilme
+https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Kultfilmer
+https://jmp2.uk/plu-63dbe80f60bc8f0008aa7c78.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Kultfilmer
+https://jmp2.uk/plu-63dbe8c8a9957100087798a3.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Legami Letali
+https://jmp2.uk/plu-64808a8c536e0c0008a276d1.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Movies
+https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Movies
+https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Netmovies
+https://jmp2.uk/plu-663b9de4f999220008230fa8.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Notti di Passione
+https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Notti di Sangue
+https://jmp2.uk/plu-6911c92b4316999535eb1e08.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Notti di Terrore
+https://jmp2.uk/plu-6911c8dd8caba6f046c5c5d5.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Nuestro Cine
+https://jmp2.uk/plu-5defde6d6c07b50009cf0757.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Paranormal
+https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Psycho
+https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Reaction
+https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Retro
+https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Retro Action Movies
+https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Retro Crime Action
+https://jmp2.uk/plu-69aee8a1acb7eb0bb68df641.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Retro Crime Drama
+https://jmp2.uk/plu-630f1e6073bd1800082107f0.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Retro Kid
+https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Retro Toons
+https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Retro Toons
+https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Romance
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="其他",Pluto TV Romance
+https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Romantik
+https://jmp2.uk/plu-63a19da6847a090007f230da.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Romantikk
+https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Sci-Fi
+https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Sci-Fi
+https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Sci-Fi
+https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Serie Sci-Fi
+https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Sherlock
+https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Spotlight
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=51&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="其他",Pluto TV Spotlight
+https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Staff Picks
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=90&deviceId=5f4d863b98b41000076cd061&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="其他",Pluto TV Staff Picks
+https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Star Trek
+https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Star Trek
+https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Tegnefilm
+https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Tegnefilm
+https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Terror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="其他",Pluto TV Terror
+https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Terror Trash
+https://jmp2.uk/plu-66aa67493a4ad2000806d91b.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Trending Now
+https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Weihnachten im Sommer
+https://jmp2.uk/plu-642ad072283aa4000806148c.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Western
+https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Westerns
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="其他",Pluto TV Westerns
+https://jmp2.uk/plu-5b4e94282d4ec87bdcbb87cd.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Westerns
+https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Wild West
+https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
+#EXTINF:-1 group-title="其他",Pluto TV Zombies
+https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
+#EXTINF:-1 group-title="其他",Popcorn Central
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+#EXTINF:-1 group-title="其他",Pro Cinema
+http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8
+#EXTINF:-1 group-title="其他",Public Movies
+https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
+#EXTINF:-1 group-title="其他",Punjabi Shorts
+https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
+#EXTINF:-1 group-title="其他",Puto TV Classic TV Crime Drama
+https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8
+#EXTINF:-1 group-title="其他",Qinghai TV
+https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+#EXTINF:-1 group-title="其他",QTV-1
+http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+#EXTINF:-1 group-title="其他",QTV-2
+http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+#EXTINF:-1 group-title="其他",QTV-3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+#EXTINF:-1 group-title="其他",QTV-4
+http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+#EXTINF:-1 group-title="其他",QTV-5
+http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
+#EXTINF:-1 group-title="其他",QTV-6
+http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+#EXTINF:-1 group-title="其他",Raj Digital Plus
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Action Movies
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Action Movies
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Action Movies
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Action Movies
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Action Movies
+https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Comedy Movies
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Comedy Movies
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Comedy Movies
+https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Comedy Movies
+https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Comedy Movies
+https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Family Movies
+https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Family Movies
+https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Family Movies
+https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Family Movies
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Family Movies
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Nordic Films
+https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Top Movies
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Top Movies
+https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Top Movies
+https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Top Movies
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
+#EXTINF:-1 group-title="其他",Rakuten TV Top Movies
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+#EXTINF:-1 group-title="其他",Rawhide
+https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
+#EXTINF:-1 group-title="其他",Rawhide
+https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
+#EXTINF:-1 group-title="其他",Retro
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 group-title="其他",Retro
+http://str2.iptvhd.ru:8080/Retro/index.m3u8
+#EXTINF:-1 group-title="其他",Retro
+http://stream.mcquack.net/191/index.m3u8
+#EXTINF:-1 group-title="其他",Retro
+https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="其他",Retro Music TV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="其他",Retro Music TV
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 group-title="其他",Retro Plus 2
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:-1 group-title="其他",Retroclub
+https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8
+#EXTINF:-1 group-title="其他",RetroCrush
+https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="其他",RetroCrush
+https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="其他",Rotana Cinema Egypt
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 group-title="其他",Rotana Cinema KSA
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 group-title="其他",Rotana Classic
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 group-title="其他",RTL Gold
+https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="其他",Runtime
+https://jmp2.uk/plu-6086d3f420fc8500075f8dbf.m3u8
+#EXTINF:-1 group-title="其他",SensaCine TV x Pluto
+https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
+#EXTINF:-1 group-title="其他",Shubh Cinema TV
+https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
+#EXTINF:-1 group-title="其他",Shubh Cinema TV
+https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8
+#EXTINF:-1 group-title="其他",Silk Way Cinema
+https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
+#EXTINF:-1 group-title="其他",Siping TV
+http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
+#EXTINF:-1 group-title="其他",SL 1
+https://slonehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="其他",SL 2
+https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="其他",Sony Movies
+http://168.197.104.22/SONY_MOVIES/index.m3u8
+#EXTINF:-1 group-title="其他",Sony Movies
+http://170.83.16.50/SONY_MOVIES/index.m3u8
+#EXTINF:-1 group-title="其他",Sony Movies
+http://45.162.64.114/SONY_MOVIES/index.m3u8
+#EXTINF:-1 group-title="其他",Sony Movies
+http://45.177.114.115/SONY_MOVIES/index.m3u8
+#EXTINF:-1 group-title="其他",Sony Movies Latin America
+http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
+#EXTINF:-1 group-title="其他",Sony One Hits Action
+https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="其他",South Station
+https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
+#EXTINF:-1 group-title="其他",Star Channel
+http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
+#EXTINF:-1 group-title="其他",Star Channel Latin America
+http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
+#EXTINF:-1 group-title="其他",Star Cinema
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+#EXTINF:-1 group-title="其他",Star Family
+http://str2.iptvhd.ru:8080/112Ukraina/index.m3u8
+#EXTINF:-1 group-title="其他",Star Gold 2
+http://107.167.16.138/stargold2/index.m3u8?token=test
+#EXTINF:-1 group-title="其他",Star Maa Movies
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 group-title="其他",Star Trek Movies
+https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8
+#EXTINF:-1 group-title="其他",Star Trek Movies
+https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
+#EXTINF:-1 group-title="其他",Star Trek Movies
+https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
+#EXTINF:-1 group-title="其他",Star Trek: Deep Space Nine
+https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
+#EXTINF:-1 group-title="其他",Star Trek: The Next Generation
+https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
+#EXTINF:-1 group-title="其他",Star Trek: The Next Generation
+https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
+#EXTINF:-1 group-title="其他",Star Trek: The Original Series
+https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8
+#EXTINF:-1 group-title="其他",Star Trek: The Original Series
+https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
+#EXTINF:-1 group-title="其他",Star Trek: Voyager
+https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
+#EXTINF:-1 group-title="其他",Star Trek: Voyager
+https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
+#EXTINF:-1 group-title="其他",START Air
+http://str2.iptvhd.ru:8080/START_Air_HD/index.m3u8
+#EXTINF:-1 group-title="其他",START World
+http://str2.iptvhd.ru:8080/START_World_HD/index.m3u8
+#EXTINF:-1 group-title="其他",Starz Cinema
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:-1 group-title="其他",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="其他",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="其他",Studio One +
+https://mumt04.tangotv.in/m18aqlK4STUDIOONEPLUS/index.m3u8
+#EXTINF:-1 group-title="其他",Suriyan TV
+https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8
+#EXTINF:-1 group-title="其他",SYFY
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 group-title="其他",Tamasha
+https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
+#EXTINF:-1 group-title="其他",Thalaa TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
+#EXTINF:-1 group-title="其他",The Andy Griffith Show
+https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8
+#EXTINF:-1 group-title="其他",The Archive
+https://linear-1080.frequency.stream/dist/cineverse/1080/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="其他",The Asylum
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="其他",The Beverly Hillbillies
+https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8
+#EXTINF:-1 group-title="其他",The Carol Burnett Show
+https://aegis-cloudfront-1.tubi.video/e17b8de5-e8b7-415a-8377-5707a2f9a727/playlist.m3u8
+#EXTINF:-1 group-title="其他",The Film Detective
+https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="其他",The Love Boat
+https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
+#EXTINF:-1 group-title="其他",The Movie Club
+https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
+#EXTINF:-1 group-title="其他",The Movie Club
+https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
+#EXTINF:-1 group-title="其他",The Movie Club
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+#EXTINF:-1 group-title="其他",The Retro Channel
+https://583ed2f226ac2.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 group-title="其他",The Twilight Zone
+https://jmp2.uk/plu-6512d3a0bdcb19000799cc82.m3u8
+#EXTINF:-1 group-title="其他",The Wild Wild West
+https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
+#EXTINF:-1 group-title="其他",The Wild Wild West
+https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
+#EXTINF:-1 group-title="其他",Tolly TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
+#EXTINF:-1 group-title="其他",Top Movies Polska
+https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
+#EXTINF:-1 group-title="其他",TV 21 International
+http://stream.mcquack.net/152/index.m3u8
+#EXTINF:-1 group-title="其他",TV Land Drama
+https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
+#EXTINF:-1 group-title="其他",TV1000
+http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
+#EXTINF:-1 group-title="其他",TVCARiB Cinema
+https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
+#EXTINF:-1 group-title="其他",TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+#EXTINF:-1 group-title="其他",TVS Cipher Network
+https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8
+#EXTINF:-1 group-title="其他",TVS Drive In Movie
+https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 group-title="其他",TVS Hollywood History
+https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 group-title="其他",TVS Mainstreet
+https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8
+#EXTINF:-1 group-title="其他",TVS Nostalgia
+https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8
+#EXTINF:-1 group-title="其他",TVS Nostalgia Movies
+https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 group-title="其他",TVS Pet Parade Network
+https://rpn.bozztv.com/gusa/gusa-petparadenetwork/index.m3u8
+#EXTINF:-1 group-title="其他",TVS Quiz Show Network
+https://rpn.bozztv.com/gusa/gusa-tvsgameshow/index.m3u8
+#EXTINF:-1 group-title="其他",TVS Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 group-title="其他",TVS Talk Network
+https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8
+#EXTINF:-1 group-title="其他",TVS Tally Ho
+https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8
+#EXTINF:-1 group-title="其他",TVS Tavern
+https://rpn.bozztv.com/gusa/gusa-tavern/index.m3u8
+#EXTINF:-1 group-title="其他",TVS Western Movie
+https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 group-title="其他",Ultimate Classic Wrestling – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/652516fb7971630008a58e74/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="其他",Universal Comedy
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
+#EXTINF:-1 group-title="其他",USA Network
+http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
+#EXTINF:-1 group-title="其他",V Classic TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 group-title="其他",Vantage Classic
+https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8
+#EXTINF:-1 group-title="其他",Vantage Classic
+https://hls.vantagetv.ee/vclassic_stream/index.m3u8
+#EXTINF:-1 group-title="其他",Vevo Retro Rock
+https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
+#EXTINF:-1 group-title="其他",Viafree Movies
+https://jmp2.uk/plu-62beb44e3afd120007915d1b.m3u8
+#EXTINF:-1 group-title="其他",Viafree Movies
+https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
+#EXTINF:-1 group-title="其他",Viafree Movies
+https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
+#EXTINF:-1 group-title="其他",Viasat Explore Classic
+https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
+#EXTINF:-1 group-title="其他",Viasat Serial
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599
+#EXTINF:-1 group-title="其他",VOA美国之音 (1080p)
+https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+#EXTINF:-1 group-title="其他",Wanted: Dead or Alive
+https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playlist.m3u8
+#EXTINF:-1 group-title="其他",Watch it Scream!
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2246
+#EXTINF:-1 group-title="其他",Western TV
+https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
+#EXTINF:-1 group-title="其他",Westerns 4U
+http://181.224.255.210:8001/play/a0rq/index.m3u8
+#EXTINF:-1 group-title="其他",Whiplash Cinema
+https://cdn.whiplash.cc/whiplash-cinema/index.m3u8
+#EXTINF:-1 group-title="其他",WOWOWシネマ
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs08
+#EXTINF:-1 group-title="其他",Wu Tang Collection
+https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
+#EXTINF:-1 group-title="其他",Xinjiang TV 2
+http://110.153.180.106:55555/out_3/index.m3u8
+#EXTINF:-1 group-title="其他",Xinjiang TV 3
+http://110.153.180.106:55555/out_2/index.m3u8
+#EXTINF:-1 group-title="其他",Xinjiang TV 8
+http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
+#EXTINF:-1 group-title="其他",XITE Classic Country
+https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
+#EXTINF:-1 group-title="其他",Xizang TV Tibetan (720p) [Not 24/7]
+http://php.jdshipin.com:8880/xztv.php?id=zy
+#EXTINF:-1 group-title="其他",Xtrema Terror
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 group-title="其他",Yes Movies Action
+http://stream.mcquack.net/380/index.m3u8
+#EXTINF:-1 group-title="其他",Zee Action
+http://107.167.16.138/zeeaction/index.m3u8?token=test
+#EXTINF:-1 group-title="其他",Zee Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+#EXTINF:-1 group-title="其他",Zee Cinema
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+#EXTINF:-1 group-title="其他",Zee Classic
+http://107.167.16.138/zeeclassic/index.m3u8?token=test
+#EXTINF:-1 group-title="其他",Zee Talkies
+http://107.167.16.138/zeetalkies/index.m3u8?token=test
+#EXTINF:-1 group-title="其他",Zhejiang TV International
+https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+#EXTINF:-1 group-title="其他",上虞1新闻综合 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1 group-title="其他",上虞3新商都 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1 group-title="其他",上虞经济文化 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 group-title="其他",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="其他",余姚姚江文化 (576p)
+https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1 group-title="其他",余姚新闻综合 (576p)
+https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1 group-title="其他",兴隆综合
+https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="其他",农安新闻综合
+https://stream2.jlntv.cn/naxw/sd/live.m3u8
+#EXTINF:-1 group-title="其他",前郭综合
+https://stream2.jlntv.cn/qg/sd/live.m3u8
+#EXTINF:-1 group-title="其他",发现之旅
+https://epg.pw/stream/0c141ad833ea9162fa1248de0bda4204a8c72f891e8ee10adb4303758f904aa3.ctv
+#EXTINF:-1 group-title="其他",吉林市新闻综合
+https://stream2.jlntv.cn/jilin1/sd/live.m3u8
+#EXTINF:-1 group-title="其他",四平新闻综合
+https://stream2.jlntv.cn/sptv/sd/live.m3u8
+#EXTINF:-1 group-title="其他",岳阳公共 (576p)
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?BVUUID=C236454D-5355-2F5F-FA96-1887C72E55CE&auth=654837809071524@615@2E9A5FD0B225B012E3178551CF3754A8
+#EXTINF:-1 group-title="其他",嵊州综合 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 group-title="其他",广东 Ⅰ 韶关公共台 (720p) [Not 24/7]
+https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
+#EXTINF:-1 group-title="其他",广东 Ⅰ 韶关综合台 (720p) [Not 24/7]
+https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+#EXTINF:-1 group-title="其他",延边新闻综合
+https://stream2.jlntv.cn/jlyb/sd/live.m3u8
+#EXTINF:-1 group-title="其他",新昌休闲影视 (1080p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1 group-title="其他",新昌新闻综合 (1080p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+#EXTINF:-1 group-title="其他",松原新闻综合
+https://stream2.jlntv.cn/sytv/sd/live.m3u8
+#EXTINF:-1 group-title="其他",武进新闻 (576p) [Not 24/7]
+https://live.wjyanghu.com/live/CH1.m3u8
+#EXTINF:-1 group-title="其他",武进生活 (576p) [Not 24/7]
+https://live.wjyanghu.com/live/CH2.m3u8
+#EXTINF:-1 group-title="其他",江津新闻综合 (480p)
+http://222.179.155.21:1935/ch1.m3u8
+#EXTINF:-1 group-title="其他",江津经济生活 (480p)
+http://222.179.155.21:1935/ch0.m3u8
+#EXTINF:-1 group-title="其他",河源综合 (540p)
+https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="其他",浙江 Ⅰ 绍兴影视 (720p)
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 group-title="其他",浙江 Ⅰ 绍兴综合 (576p)
+http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+#EXTINF:-1 group-title="其他",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 group-title="其他",浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="其他",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 group-title="其他",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 group-title="其他",浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="其他",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 group-title="其他",湘潭公共 (576p)
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="其他",湘潭新闻综合 (720p)
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="其他",白城新闻综合
+https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+#EXTINF:-1 group-title="其他",白山新闻综合
+https://stream2.jlntv.cn/baishan1/sd/live.m3u8
+#EXTINF:-1 group-title="其他",福州广播电视台新闻综合频道 (FZTV-1) (1080p)
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1 group-title="其他",福州广播电视台都市生活频道 (FZTV-3) (1080p)
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 group-title="其他",福州电视台少儿频道 (FZTV-少儿) (1080p)
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1 group-title="其他",荣昌综合 (404p) [Not 24/7]
+http://183.64.181.25:40023/rongchang01.m3u8
+#EXTINF:-1 group-title="其他",萧山新闻综合 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 group-title="其他",萧山生活频道 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1 group-title="其他",辽源新闻综合
+https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
+#EXTINF:-1 group-title="其他",通化新闻
+https://stream2.jlntv.cn/tonghua1/sd/live.m3u8
+#EXTINF:-1 group-title="其他",长春综合
+https://stream2.jlntv.cn/jlcc/sd/live.m3u8
+#EXTINF:-1 group-title="其他",集安综合
+https://stream2.jlntv.cn/ja/sd/live.m3u8
+#EXTINF:-1 group-title="其他",靖江新闻综合 (480p) [Not 24/7]
+http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
+#EXTINF:-1 group-title="其他",风云足球
+https://epg.pw/stream/20c329c5ad4872f9416783144b091c3943c94538393e0fc5f60bc551a06dd372.m3u8

@@ -1,0 +1,39 @@
+{
+  "version": "V5.7",
+  "input_rows": 1208,
+  "unique_urls_tested": 1208,
+  "playlist_ok": 748,
+  "failed": 460,
+  "speed_counts": {
+    "S1": 190,
+    "S2": 273,
+    "S3": 279,
+    "S4": 5,
+    "S5": 1
+  },
+  "category_counts": {
+    "CCTV": 38,
+    "CCTV-1 综合": 2,
+    "CCTV-6 电影": 22,
+    "CCTV-8 电视剧": 2,
+    "其他": 86,
+    "功夫电影": 3,
+    "恐怖电影": 15,
+    "惊悚电影": 8,
+    "电影": 628,
+    "电视剧": 37,
+    "经典电影": 116,
+    "香港电影": 3
+  },
+  "failure_counts": {
+    "http_404": 13,
+    "not_playlist": 68,
+    "sslerror": 6,
+    "http_502": 2,
+    "timeout": 291,
+    "http_503": 29,
+    "http_403": 45,
+    "http_567": 5,
+    "connectionerror": 1
+  }
+}

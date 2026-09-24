@@ -1,0 +1,44 @@
+{
+  "version": "V5.5.1",
+  "input_rows": 702,
+  "ffprobe_path": "D:\\Documents\\Downloads\\tonkiang-iptv\\tools\\ffmpeg\\bin\\ffprobe.exe",
+  "workers": 8,
+  "retry_timeout": 12,
+  "retry_modes": [
+    "normal",
+    "hls",
+    "headers"
+  ],
+  "already_ok": 182,
+  "retry_attempted": 520,
+  "recovered": 6,
+  "still_failed": 514,
+  "final_ffprobe_ok": 188,
+  "final_ffprobe_failed": 514,
+  "final_success_rate": 0.2678,
+  "failure_classes": {
+    "invalid_data": 374,
+    "http_4xx": 84,
+    "timeout": 38,
+    "http_403": 12,
+    "no_video": 4,
+    "hls_error": 2
+  },
+  "recovered_by_mode": {
+    "normal": 4,
+    "headers": 1,
+    "hls": 1
+  },
+  "recovered_codecs": {
+    "h264": 5,
+    "mpeg2video": 1
+  },
+  "recovered_resolutions": {
+    "1280x720": 2,
+    "1920x1080": 1,
+    "1920x800": 1,
+    "640x360": 1,
+    "720x576": 1
+  },
+  "next_stage": "V5.6 frame sampling for confirmed playable sources"
+}

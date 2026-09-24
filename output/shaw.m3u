@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CelestialMovies.hk" group-title="邵氏综合",Celestial Movies
+http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
+#EXTINF:-1 tvg-id="Celestial Movies" group-title="邵氏综合",Celestial Movies
+http://210.210.155.37/dr9445/h/h14/index.m3u8

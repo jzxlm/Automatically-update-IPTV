@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AmericanHorrors.us" group-title="恐怖电影",American Horrors
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+#EXTINF:-1 tvg-id="HorrorChannel.it" group-title="恐怖电影",Horror Channel
+http://str2.iptvhd.ru:8080/Horror/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFantasyHorror.de" group-title="恐怖电影",Pluto TV Fantasy & Horror
+https://jmp2.uk/plu-685041d936c9361b1921c26c.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHorror.de" group-title="恐怖电影",Pluto TV Horror
+https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHorror.de" group-title="恐怖电影",Pluto TV Horror
+https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHorror.de" group-title="恐怖电影",Pluto TV Horror
+https://jmp2.uk/plu-612cda102f5f18000705e0bf.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHorror.de" group-title="恐怖电影",Pluto TV Horror
+https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHorror.se" group-title="恐怖电影",Pluto TV Horror
+https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHorror.se" group-title="恐怖电影",Pluto TV Horror
+https://jmp2.uk/plu-63a19cb7847a090007f230d7.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHorror.se" group-title="恐怖电影",Pluto TV Horror
+https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHorror.us" group-title="恐怖电影",Pluto TV Horror
+https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHorror.us" group-title="恐怖电影",Pluto TV Horror
+https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHorrorSerien.de" group-title="恐怖电影",Pluto TV Horror-Serien
+https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8
+#EXTINF:-1 tvg-id="ZeeHorrorNights.in" group-title="恐怖电影",Zee Horror Nights
+https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="恐怖电影",Pluto TV Horror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="" group-title="恐怖电影",Horror – Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61c09e3ac210ed0007606620/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" group-title="恐怖电影",恐怖电影「解说」
+https://cdn.ttvb.eu.org/huya/23419131

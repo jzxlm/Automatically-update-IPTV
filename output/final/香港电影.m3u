@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="香港电影",Mei Ah Movie Channel
+http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
+#EXTINF:-1 group-title="香港电影",Mei Ah Movie Channel
+http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
+#EXTINF:-1 group-title="香港电影",Mei Ah Movie Channel
+http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8

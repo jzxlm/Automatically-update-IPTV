@@ -1,0 +1,24 @@
+{
+  "input_rows": 750,
+  "input_playable": 750,
+  "final_unique_playable": 750,
+  "categories": {
+    "CCTV": 5,
+    "CCTV-1 综合": 8,
+    "CCTV-6 电影": 22,
+    "CCTV-8 电视剧": 3,
+    "电影": 10,
+    "恐怖电影": 15,
+    "惊悚电影": 9,
+    "功夫电影": 3,
+    "香港电影": 3,
+    "电视剧": 15,
+    "其他": 657
+  },
+  "drama_matches": {},
+  "star_matches": {},
+  "network_probing": false,
+  "ffprobe": false,
+  "video_frame_analysis": false,
+  "ai": false
+}

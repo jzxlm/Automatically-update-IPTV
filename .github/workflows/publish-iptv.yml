@@ -1,0 +1,75 @@
+name: Publish IPTV Playlists
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 02:30 UTC = 10:30 China/Japan standard time.
+    - cron: "30 2 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-iptv
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Verify source data
+        shell: bash
+        run: |
+          test -f data/movie_tv_v59_result.json
+          echo "Source data exists."
+
+      - name: Build final playlists
+        run: python scripts/movie_organizer_v6.py
+
+      - name: Validate generated playlist
+        shell: bash
+        run: |
+          test -s output/movies_tv_final.m3u
+          grep -q '^#EXTM3U' output/movies_tv_final.m3u
+
+          COUNT=$(grep -c '^#EXTINF:' output/movies_tv_final.m3u || true)
+          echo "Generated EXTINF entries: $COUNT"
+
+          if [ "$COUNT" -ne 750 ]; then
+            echo "ERROR: expected 750 playlist entries, got $COUNT"
+            exit 1
+          fi
+
+      - name: Show summary
+        shell: bash
+        run: |
+          cat data/movie_tv_final_summary.json
+
+      - name: Commit and push only when changed
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add             data/movie_tv_final.json             data/movie_tv_final_summary.json             output/movies_tv_final.m3u             output/final
+
+          if git diff --cached --quiet; then
+            echo "No generated-file changes. Nothing to commit."
+            exit 0
+          fi
+
+          git commit -m "auto: update IPTV playlists"
+          git push

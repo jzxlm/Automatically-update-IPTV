@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTVNostalgiaTheater.cn" group-title="怀旧电影",CCTV-Nostalgia Theater
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="NOST.us" group-title="怀旧电影",NOST
+https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Nostalgia.bg" group-title="怀旧电影",Nostalgia
+http://213.91.179.28:8000/play/a03q
+#EXTINF:-1 tvg-id="Nostalgia.ru" group-title="怀旧电影",Nostalgia
+http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
+#EXTINF:-1 tvg-id="Nostalgia.ru" group-title="怀旧电影",Nostalgia
+https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Nostalgia.ru" group-title="怀旧电影",Nostalgia
+http://176.118.197.101/Nostalgiya/index.m3u8
+#EXTINF:-1 tvg-id="Nostalgia.ru" group-title="怀旧电影",Nostalgia
+http://str2.iptvhd.ru:8080/Nostalgiya/index.m3u8
+#EXTINF:-1 tvg-id="Nostalgia.ru" group-title="怀旧电影",Nostalgia
+http://31.148.48.15/Nostalgiya/index.m3u8
+#EXTINF:-1 tvg-id="PersianaNostalgia.fr" group-title="怀旧电影",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TVSNostalgia.us" group-title="怀旧电影",TVS Nostalgia
+https://rpn.bozztv.com/gusa/gusa-nostalgia/index.m3u8
+#EXTINF:-1 tvg-id="TVSNostalgiaMovies.us" group-title="怀旧电影",TVS Nostalgia Movies
+https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-id="怀旧剧场" group-title="怀旧电影",CCTV怀旧剧场
+https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 tvg-id="怀旧剧场" group-title="怀旧电影",怀旧剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8

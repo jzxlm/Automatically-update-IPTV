@@ -1,0 +1,61 @@
+{
+  "input_rows": 1208,
+  "unique_urls": 1208,
+  "existing_ok": 743,
+  "failed_before_retry": 465,
+  "retry_attempted": 465,
+  "recovered": 7,
+  "remaining_retry_failures": 458,
+  "final_unique": 1208,
+  "final_ok": 750,
+  "final_failed": 458,
+  "final_success_rate": 62.1,
+  "speed_counts": {
+    "S1": 213,
+    "S2": 267,
+    "S3": 257,
+    "S4": 12,
+    "S5": 1
+  },
+  "failure_counts": {
+    "timeout": 289,
+    "not_playlist": 69,
+    "http_403": 47,
+    "http_503": 29,
+    "http_404": 12,
+    "http_567": 5,
+    "sslerror": 5,
+    "http_502": 1,
+    "connectionerror": 1
+  },
+  "retry_mode_counts": {
+    "normal": 6,
+    "ssl_fallback": 1
+  },
+  "primary_categories": {
+    "电视剧": 1053,
+    "CCTV-6 电影": 88,
+    "CCTV-1 综合": 18,
+    "经典电影": 15,
+    "恐怖电影": 15,
+    "惊悚电影": 9,
+    "CCTV-8 电视剧": 4,
+    "香港电影": 3,
+    "功夫电影": 3
+  },
+  "drama_counts": {
+    "射雕英雄传": 1,
+    "西游记": 1,
+    "倚天屠龙记": 1
+  },
+  "star_counts": {
+    "刘德华": 2,
+    "周星驰": 1,
+    "甄子丹": 1,
+    "林正英": 1,
+    "李连杰": 1,
+    "成龙": 1
+  },
+  "no_video_frame_analysis": true,
+  "no_ai": true
+}

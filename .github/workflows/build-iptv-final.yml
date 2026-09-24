@@ -1,0 +1,44 @@
+name: Build IPTV Final Playlist
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub Actions cron is UTC.
+    # 02:30 UTC = 10:30 China/Japan standard time.
+    - cron: "30 2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build final IPTV playlists
+        run: python scripts/movie_organizer_v6.py
+
+      - name: Commit generated playlists
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/movie_tv_final.json
+          git add data/movie_tv_final_summary.json
+          git add output/movies_tv_final.m3u
+          git add output/final
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "auto: update final IPTV playlists"
+            git push
+          fi

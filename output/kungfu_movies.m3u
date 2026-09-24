@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NonStopKungFu.se" group-title="功夫电影",NonStop Kung Fu
+https://jmp2.uk/plu-6728d2be529ac9000830dc15.m3u8
+#EXTINF:-1 tvg-id="NonStopKungFu.se" group-title="功夫电影",NonStop Kung Fu
+https://jmp2.uk/plu-6728d30cdaad7f000881d979.m3u8
+#EXTINF:-1 tvg-id="NonStopKungFu.se" group-title="功夫电影",NonStop Kung Fu
+https://jmp2.uk/plu-6728d33f030a2c0008edf4be.m3u8
+#EXTINF:-1 tvg-id="功夫电影" group-title="功夫电影",功夫电影
+https://live.metshop.top/huya/11352941
+#EXTINF:-1 tvg-id="1" group-title="功夫电影",电影功夫片
+http://live.metshop.top/huya/11352941?cdn=alicdn
+#EXTINF:-1 tvg-id="newtv中国功夫" group-title="功夫电影",newtv中国功夫
+http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
