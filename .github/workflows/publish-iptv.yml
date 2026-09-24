@@ -4,8 +4,6 @@ on:
   workflow_dispatch:
 
   schedule:
-    # 每天 UTC 02:30
-    # 中国 / 日本标准时间 = 10:30
     - cron: "30 2 * * *"
 
 permissions:
@@ -34,15 +32,17 @@ jobs:
             exit 1
           fi
 
-          echo "Source data found:"
-          ls -lh data/movie_tv_v59_result.json
-
       - name: Build final playlists
         shell: bash
         run: |
           set -e
-
           python scripts/movie_organizer_v6.py
+
+      - name: Generate playlist subscription index
+        shell: bash
+        run: |
+          set -e
+          python scripts/generate_playlist_index.py
 
       - name: Validate generated playlist
         shell: bash
@@ -56,19 +56,21 @@ jobs:
             exit 1
           fi
 
-          FIRST_LINE=$(head -n 1 "$FILE")
-
-          if [ "$FIRST_LINE" != "#EXTM3U" ]; then
+          if [ "$(head -n 1 "$FILE")" != "#EXTM3U" ]; then
             echo "ERROR: invalid M3U header"
             exit 1
           fi
 
           COUNT=$(grep -c '^#EXTINF:' "$FILE" || true)
-
           echo "Generated EXTINF entries: $COUNT"
 
           if [ "$COUNT" -ne 750 ]; then
             echo "ERROR: expected 750 EXTINF entries, got $COUNT"
+            exit 1
+          fi
+
+          if [ ! -f "PLAYLISTS.md" ]; then
+            echo "ERROR: PLAYLISTS.md not generated"
             exit 1
           fi
 
@@ -77,19 +79,16 @@ jobs:
       - name: Show summary
         shell: bash
         run: |
-          echo "=== Generated files ==="
+          echo "=== Subscription entry ==="
+          sed -n '1,220p' PLAYLISTS.md
+
+          echo
+          echo "=== Generated M3U files ==="
           find output/final -maxdepth 1 -type f -name "*.m3u" -printf "%f\n" | sort
 
           echo
           echo "=== Master playlist ==="
           ls -lh output/movies_tv_final.m3u
-
-          echo
-          echo "=== Summary ==="
-
-          if [ -f "data/movie_tv_final_summary.json" ]; then
-            cat data/movie_tv_final_summary.json
-          fi
 
       - name: Commit and push only when changed
         shell: bash
@@ -99,7 +98,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add output data/movie_tv_final.json data/movie_tv_final_summary.json
+          git add PLAYLISTS.md output data/movie_tv_final.json data/movie_tv_final_summary.json
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
