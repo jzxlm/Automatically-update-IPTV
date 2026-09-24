@@ -1,8 +1,7 @@
 # IPTV 播放器订阅地址
 
-> **电视播放器请使用下面的 `.m3u` Raw 地址。**
->
-> GitHub Raw 地址会随着 `main` 分支更新而自动更新，不需要重新下载文件。
+> 电视播放器请添加下面的 `.m3u` Raw 地址。
+> 地址固定指向 GitHub `main` 分支，Actions 更新后播放器刷新即可获取新内容。
 
 ## ⭐ 主订阅
 
@@ -14,9 +13,9 @@ https://raw.githubusercontent.com/jzxlm/Automatically-update-IPTV/main/output/mo
 
 | 名称 | M3U 地址 |
 |---|---|
-| CCTV 全部 | https://raw.githubusercontent.com/jzxlm/Automatically-update-IPTV/main/output/final/CCTV_%E5%85%A8%E9%83%A8.m3u |
-| 电影全部 | https://raw.githubusercontent.com/jzxlm/Automatically-update-IPTV/main/output/final/%E7%94%B5%E5%BD%B1_%E5%85%A8%E9%83%A8.m3u |
-| 电视剧全部 | https://raw.githubusercontent.com/jzxlm/Automatically-update-IPTV/main/output/final/%E7%94%B5%E8%A7%86%E5%89%A7_%E5%85%A8%E9%83%A8.m3u |
+| CCTV_全部 | https://raw.githubusercontent.com/jzxlm/Automatically-update-IPTV/main/output/final/CCTV_%E5%85%A8%E9%83%A8.m3u |
+| 电影_全部 | https://raw.githubusercontent.com/jzxlm/Automatically-update-IPTV/main/output/final/%E7%94%B5%E5%BD%B1_%E5%85%A8%E9%83%A8.m3u |
+| 电视剧_全部 | https://raw.githubusercontent.com/jzxlm/Automatically-update-IPTV/main/output/final/%E7%94%B5%E8%A7%86%E5%89%A7_%E5%85%A8%E9%83%A8.m3u |
 
 ## 📂 分类订阅
 
@@ -34,24 +33,15 @@ https://raw.githubusercontent.com/jzxlm/Automatically-update-IPTV/main/output/mo
 | 电视剧 | https://raw.githubusercontent.com/jzxlm/Automatically-update-IPTV/main/output/final/%E7%94%B5%E8%A7%86%E5%89%A7.m3u |
 | 其他 | https://raw.githubusercontent.com/jzxlm/Automatically-update-IPTV/main/output/final/%E5%85%B6%E4%BB%96.m3u |
 
-## 🧪 电视测试建议
+## 📺 使用方法
 
-第一次建议先添加 **主订阅**。
+1. 复制某个 `.m3u` Raw 地址。
+2. 在电视 IPTV 播放器中选择「网络订阅 / M3U URL / 播放列表 URL」。
+3. 粘贴地址并保存。
+4. 后续 GitHub Actions 更新文件后，刷新订阅即可。
 
-如果电视播放器加载太慢，再分别测试：
+## ⚠️ 说明
 
-1. CCTV 全部
-2. 电影全部
-3. 电视剧全部
-4. 恐怖电影
-5. 香港电影
-
-如果某一分类在电视上大量打不开，可以单独针对该分类做下一版筛选。
-
-## 🔄 更新方式
-
-以上地址全部指向 GitHub `main` 分支。
-
-GitHub Actions 每次成功更新后，地址本身不变，播放器下次刷新订阅时即可获取最新内容。
-
-**无需重新下载 M3U。**
+- `PLAYLISTS.md` 只是订阅地址说明页，不是 M3U 播放列表。
+- 主订阅 `movies_tv_final.m3u` 是当前完整播放列表。
+- 分类文件来自 `scripts/movie_organizer_v6.py` 的实际输出。
