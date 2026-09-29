@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" group-title="央视" tvg-id="CHC电影",CCTV-6 电影
+http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-chno="2" group-title="央视" tvg-id="CCTV6.cn",CCTV-6 电影
+http://198.204.240.250:82/live/cctv6.m3u8
+#EXTINF:-1 tvg-chno="3" group-title="央视" tvg-id="CCTV6.cn",CCTV-6 电影
+http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 tvg-chno="4" group-title="央视" tvg-id="2",CCTV-6 电影
+http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
+#EXTINF:-1 tvg-chno="5" group-title="央视" tvg-id="南宁影视娱乐",CCTV-6 电影
+http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+#EXTINF:-1 tvg-chno="6" group-title="央视" tvg-id="龙门飞甲",CCTV-6 电影
+http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
+#EXTINF:-1 tvg-chno="7" group-title="央视" tvg-id="倩女幽魂道道道",CCTV-6 电影
+http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+#EXTINF:-1 tvg-chno="8" group-title="央视" tvg-id="倩女幽魂妖魔道",CCTV-6 电影
+http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+#EXTINF:-1 tvg-chno="9" group-title="央视" tvg-id="倩女幽魂人间道",CCTV-6 电影
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+#EXTINF:-1 tvg-chno="10" group-title="央视" tvg-id="东阳影视生活",CCTV-6 电影
+http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1 tvg-chno="11" group-title="央视" tvg-id="哈尔滨影视",CCTV-6 电影
+http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
+#EXTINF:-1 tvg-chno="12" group-title="央视" tvg-id="韩国电影1",CCTV-6 电影
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1 tvg-chno="13" group-title="央视" tvg-id="韩国电影2",CCTV-6 电影
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+#EXTINF:-1 tvg-chno="14" group-title="央视" tvg-id="经典电影台",CCTV-6 电影
+https://txmov2.a.kwimgs.com/bs3/video-hls/5211790793651941963_hlsb.m3u8
+#EXTINF:-1 tvg-chno="15" group-title="央视" tvg-id="拆弹专家1",CCTV-6 电影
+https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
+#EXTINF:-1 tvg-chno="16" group-title="央视" tvg-id="拆弹专家2",CCTV-6 电影
+https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
+#EXTINF:-1 tvg-chno="17" group-title="央视" tvg-id="人在囧途之泰囧",CCTV-6 电影
+https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
+#EXTINF:-1 tvg-chno="18" group-title="央视" tvg-id="人在囧途",CCTV-6 电影
+https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
+#EXTINF:-1 tvg-chno="19" group-title="央视" tvg-id="我不是药神",CCTV-6 电影
+https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
+#EXTINF:-1 tvg-chno="20" group-title="央视" tvg-id="寒战",CCTV-6 电影
+https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
+#EXTINF:-1 tvg-chno="21" group-title="央视" tvg-id="人在囧途之港囧",CCTV-6 电影
+https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
+#EXTINF:-1 tvg-chno="22" group-title="央视" tvg-id="让子弹飞",CCTV-6 电影
+https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
+#EXTINF:-1 tvg-chno="23" group-title="央视" tvg-id="CCTV8K.cn@HD",CCTV-8 电视剧
+http://192.151.150.154/live/cctv8k.m3u8
+#EXTINF:-1 tvg-chno="24" group-title="央视" tvg-id="CCTV8.cn@SD",CCTV-8 电视剧
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 tvg-chno="25" group-title="央视",CCTV-8 电视剧
+https://epg.pw/stream/12c4722b400606e9f17e446f03738627390aa03e60b7cea9a4fe15016cc6e079.m3u8

@@ -1,0 +1,369 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" group-title="国际" tvg-id="ABNBibleMoviesChannel.us",ABN Bible Movies Channel
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+#EXTINF:-1 tvg-chno="2" group-title="国际" tvg-id="AXNMovies.pt",AXN Movies
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+#EXTINF:-1 tvg-chno="3" group-title="国际" tvg-id="B4UMovies.in",B4U Movies
+https://mumt06.tangotv.in/qYyB8fXVB4UMOVIES/index.m3u8
+#EXTINF:-1 tvg-chno="4" group-title="国际" tvg-id="B4UMovies.in",B4U Movies
+https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-chno="5" group-title="国际" tvg-id="BhojpuriCinema.in",Bhojpuri Cinema
+https://cdn.pishow.tv/ott/live/1033/master.m3u8
+#EXTINF:-1 tvg-chno="6" group-title="国际" tvg-id="BhojpuriCinema.in",Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-chno="7" group-title="国际" tvg-id="BhojpuriCinema.in",Bhojpuri Cinema
+https://mumt05.tangotv.in/87NeALx2BHOJPURICINEMA/index.m3u8
+#EXTINF:-1 tvg-chno="8" group-title="国际" tvg-id="BIGBROTHERCLASSIC.de",BIG BROTHER CLASSIC
+https://jmp2.uk/plu-663e09e4b18d700008e48dcf.m3u8
+#EXTINF:-1 tvg-chno="9" group-title="国际" tvg-id="Bigtime.pl",Bigtime
+https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
+#EXTINF:-1 tvg-chno="10" group-title="国际" tvg-id="BIZCinema.uz",BIZ Cinema
+https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="11" group-title="国际" tvg-id="BRIDGEClassic.ru",BRIDGE Classic
+http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 tvg-chno="12" group-title="国际" tvg-id="BRIDGEClassic.ru",BRIDGE Classic
+http://stream.mcquack.net/272/index.m3u8
+#EXTINF:-1 tvg-chno="13" group-title="国际" tvg-id="BRIDGEClassic.ru",BRIDGE Classic
+https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-chno="14" group-title="国际" tvg-id="BSFilm.pk",BS Film
+https://lbgo.bozztv.com/ssh101/ssh101/bsfilm/playlist.m3u8
+#EXTINF:-1 tvg-chno="15" group-title="国际" tvg-id="BSFilm.pk",BS Film
+https://live20.bozztv.com/akamaissh101/ssh101/bsfilm/playlist.m3u8
+#EXTINF:-1 tvg-chno="16" group-title="国际" tvg-id="CanalPlusCinemas.fr",Canal+ Cinemas
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1 tvg-chno="17" group-title="国际" tvg-id="CineRetrobyPlutoTV.de",Cine Retro by Pluto TV
+https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
+#EXTINF:-1 tvg-chno="18" group-title="国际" tvg-id="CineThrillersbyPlutoTV.de",Cine Thrillers by Pluto TV
+https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
+#EXTINF:-1 tvg-chno="19" group-title="国际" tvg-id="CinePlusClassic.fr",Cine+ Classic
+http://99.27.51.147/CineClassic/index.m3u8
+#EXTINF:-1 tvg-chno="20" group-title="国际" tvg-id="Cinema.ru",Cinema
+http://flussonic.linkintel.ru/cinema/index.m3u8
+#EXTINF:-1 tvg-chno="21" group-title="国际" tvg-id="Cinema.ru",Cinema
+http://str2.iptvhd.ru:8080/cinema/index.m3u8
+#EXTINF:-1 tvg-chno="22" group-title="国际" tvg-id="Cinema.mn",Cinema
+https://cdn1.skygo.mn/live/disk1/CinemaTV/HLS-FTA/CinemaTV.m3u8
+#EXTINF:-1 tvg-chno="23" group-title="国际" tvg-id="Cinema.mn",Cinema
+https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
+#EXTINF:-1 tvg-chno="24" group-title="国际" tvg-id="Cinema.ru",Cinema
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="25" group-title="国际" tvg-id="CityEdenClassicMusic.ru",City Eden Classic Music
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1 tvg-chno="26" group-title="国际" tvg-id="ClassicArtsShowcase.us",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-chno="27" group-title="国际" tvg-id="ClassicMusic.ru",Classic Music
+http://str2.iptvhd.ru:8080/c-music/index.m3u8
+#EXTINF:-1 tvg-chno="28" group-title="国际" tvg-id="ClassicMusic.ru",Classic Music
+http://stream.mcquack.net/312/index.m3u8
+#EXTINF:-1 tvg-chno="29" group-title="国际" tvg-id="ClassicTVComedy.us",Classic TV Comedy
+https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
+#EXTINF:-1 tvg-chno="30" group-title="国际" tvg-id="ClassicTVFamilies.us",Classic TV: Families
+https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
+#EXTINF:-1 tvg-chno="31" group-title="国际" tvg-id="ClassicTVFamilies.us",Classic TV: Families
+https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8
+#EXTINF:-1 tvg-chno="32" group-title="国际" tvg-id="Classica.us",Classica
+https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8
+#EXTINF:-1 tvg-chno="33" group-title="国际" tvg-id="CNDFilmMiddleSchoolChannel.cn",CND Film Middle School Channel
+http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
+#EXTINF:-1 tvg-chno="34" group-title="国际" tvg-id="DoctorWhoClassic.us",Doctor Who Classic
+https://aegis-cloudfront-1.tubi.video/34cd3ae2-bb20-4594-af20-01f241a525ba/playlist.m3u8
+#EXTINF:-1 tvg-chno="35" group-title="国际" tvg-id="DoctorWhoClassic.us",Doctor Who Classic
+https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="36" group-title="国际" tvg-id="DoctorWhoClassic.us",Doctor Who Classic
+https://bbc-classicdrwho-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="37" group-title="国际" tvg-id="DoctorWhoClassic.us",Doctor Who Classic
+https://jmp2.uk/plu-5ce4475cd43850831ca91ce7.m3u8
+#EXTINF:-1 tvg-chno="38" group-title="国际" tvg-id="DoctorWhoClassic.us",Doctor Who Classic
+https://jmp2.uk/plu-62bdad934d73d50007a82472.m3u8
+#EXTINF:-1 tvg-chno="39" group-title="国际" tvg-id="E.us",E!
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 tvg-chno="40" group-title="国际" tvg-id="EnterFilm.ua",Enter-Film
+http://str2.iptvhd.ru:8080/enter_film_ua/index.m3u8
+#EXTINF:-1 tvg-chno="41" group-title="国际" tvg-id="EnterFilm.ua",Enter-Film
+http://stream.mcquack.net/322/index.m3u8
+#EXTINF:-1 tvg-chno="42" group-title="国际" tvg-id="ETVCinema.in",ETV Cinema
+https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 tvg-chno="43" group-title="国际" tvg-id="FAN.ru",FAN
+http://stream.mcquack.net/420/index.m3u8
+#EXTINF:-1 tvg-chno="44" group-title="国际" tvg-id="FilmCafe.hu",Film Cafe
+http://88.212.15.19/live/film_cafe/index.m3u8
+#EXTINF:-1 tvg-chno="45" group-title="国际" tvg-id="FilmPlus.hu",Film+
+http://88.212.15.19/live/film_plus_hun_atk/index.m3u8
+#EXTINF:-1 tvg-chno="46" group-title="国际" tvg-id="FILMBOXPlusComedy.pl",FILMBOX+ Comedy
+http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-chno="47" group-title="国际" tvg-id="FILMBOXPlusComedy.pl",FILMBOX+ Comedy
+https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
+#EXTINF:-1 tvg-chno="48" group-title="国际" tvg-id="FILMBOXPlusEmotion.pl",FILMBOX+ Emotion
+http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-chno="49" group-title="国际" tvg-id="FILMBOXPlusEmotion.pl",FILMBOX+ Emotion
+https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8
+#EXTINF:-1 tvg-chno="50" group-title="国际" tvg-id="FILMBOXPlusFestival.pl",FILMBOX+ Festival
+https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-chno="51" group-title="国际" tvg-id="FILMBOXPlusFestival.pl",FILMBOX+ Festival
+https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8
+#EXTINF:-1 tvg-chno="52" group-title="国际" tvg-id="FILMBOXPlusHits.pl",FILMBOX+ Hits
+http://88.212.15.19/live/fb_premium_hungary/index.m3u8
+#EXTINF:-1 tvg-chno="53" group-title="国际" tvg-id="FILMBOXPlusHits.pl",FILMBOX+ Hits
+http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-chno="54" group-title="国际" tvg-id="FILMBOXPlusHits.pl",FILMBOX+ Hits
+https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
+#EXTINF:-1 tvg-chno="55" group-title="国际" tvg-id="FILMBOXPlusLoveCrime.pl",FILMBOX+ Love & Crime
+http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-chno="56" group-title="国际" tvg-id="FILMBOXPlusLoveCrime.pl",FILMBOX+ Love & Crime
+https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
+#EXTINF:-1 tvg-chno="57" group-title="国际" tvg-id="FILMBOXPlusOne.pl",FILMBOX+ One
+http://88.212.15.19/live/test_filmbox/playlist.m3u8
+#EXTINF:-1 tvg-chno="58" group-title="国际" tvg-id="FILMBOXPlusOne.pl",FILMBOX+ One
+http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-chno="59" group-title="国际" tvg-id="FilmRiseAnime.us",FilmRise Anime
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-chno="60" group-title="国际" tvg-id="FilmUADrama.ua",FilmUADrama
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+#EXTINF:-1 tvg-chno="61" group-title="国际" tvg-id="GoldminesMovies.in",Goldmines Movies
+https://cdn.pishow.tv/ott/live/1461/master.m3u8
+#EXTINF:-1 tvg-chno="62" group-title="国际" tvg-id="GoldminesMovies.in",Goldmines Movies
+https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
+#EXTINF:-1 tvg-chno="63" group-title="国际" tvg-id="GoldminesMovies.in",Goldmines Movies
+https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-chno="64" group-title="国际" tvg-id="GospelMovieTV.br",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-chno="65" group-title="国际" tvg-id="GREATmovies.uk",GREAT! movies
+https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-chno="66" group-title="国际" tvg-id="GREATromance.uk",GREAT! romance
+https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-chno="67" group-title="国际" tvg-id="GrjngoWesternMovies.de",Grjngo Western Movies
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="68" group-title="国际" tvg-id="GrjngoWesternMovies.de",Grjngo Western Movies
+https://amogonetworx-grjngo-3-fi.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="69" group-title="国际" tvg-id="GrjngoWesternMovies.de",Grjngo Western Movies
+https://amogonetworx-grjngo-3-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="70" group-title="国际" tvg-id="GrjngoWesternMovies.de",Grjngo Western Movies
+https://amogonetworx-grjngo-3-lu.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="71" group-title="国际" tvg-id="GrjngoWesternMovies.de",Grjngo Western Movies
+https://amogonetworx-grjngo-3-no.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="72" group-title="国际" tvg-id="GrjngoWesternMovies.de",Grjngo Western Movies
+https://amogonetworx-grjngo-3-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="73" group-title="国际" tvg-id="HallmarkMoviesMore.us",Hallmark Movies & More
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1 tvg-chno="74" group-title="国际" tvg-id="HallmarkMoviesMore.us",Hallmark Movies & More
+https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
+#EXTINF:-1 tvg-chno="75" group-title="国际" tvg-id="iFilmPersian.ir",iFilm
+https://live.presstv.co.uk/hls/ifilmfa.m3u8
+#EXTINF:-1 tvg-chno="76" group-title="国际" tvg-id="iFilm2.ir",iFilm 2
+https://live.presstv.co.uk/hls/ifilm2.m3u8
+#EXTINF:-1 tvg-chno="77" group-title="国际" tvg-id="iFilmArabic.ir",iFilm Arabic
+https://live.presstv.co.uk/hls/ifilmar.m3u8
+#EXTINF:-1 tvg-chno="78" group-title="国际" tvg-id="iFilmEnglish.ir",iFilm English
+https://live.presstv.co.uk/hls/ifilmen.m3u8
+#EXTINF:-1 tvg-chno="79" group-title="国际" tvg-id="JTBSClassic.in",JTBS Classic
+https://jtbsclassic.dpdns.org/live.m3u8
+#EXTINF:-1 tvg-chno="80" group-title="国际" tvg-id="ManoranjanMovies.in",Manoranjan Movies
+https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
+#EXTINF:-1 tvg-chno="81" group-title="国际" tvg-id="MaverickBlackCinema.us",Maverick Black Cinema
+https://maverick-maverick-black-cinema-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="82" group-title="国际" tvg-id="MaverickBlackCinema.us",Maverick Black Cinema
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="83" group-title="国际" tvg-id="MosfilmGoldCollection.ru",Mosfilm Gold Collection
+http://stream.mcquack.net/369/index.m3u8
+#EXTINF:-1 tvg-chno="84" group-title="国际" tvg-id="MosfilmGoldCollection.ru",Mosfilm Gold Collection
+https://fs.uplink.kz/mosfilm/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-chno="85" group-title="国际" tvg-id="MovieMusicbyStingray.ca",Movie Music by Stingray
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-chno="86" group-title="国际" tvg-id="MovieBox.mn",MovieBox
+https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
+#EXTINF:-1 tvg-chno="87" group-title="国际" tvg-id="MovieSphere.us",MovieSphere
+https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8
+#EXTINF:-1 tvg-chno="88" group-title="国际" tvg-id="MovieSphere.us",MovieSphere
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="89" group-title="国际" tvg-id="MovieSphere.us",MovieSphere
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="90" group-title="国际" tvg-id="MovieSphere.us",MovieSphere
+https://jmp2.uk/plu-6401d85a49839300087b116c.m3u8
+#EXTINF:-1 tvg-chno="91" group-title="国际" tvg-id="MovieSphere.us",MovieSphere
+https://jmp2.uk/plu-645e7828e1979c00087b75b4.m3u8
+#EXTINF:-1 tvg-chno="92" group-title="国际" tvg-id="MovieSphere.us",MovieSphere
+https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8
+#EXTINF:-1 tvg-chno="93" group-title="国际" tvg-id="MovieSphere.us",MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="94" group-title="国际" tvg-id="MTVClassic.us",MTV Classic
+https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
+#EXTINF:-1 tvg-chno="95" group-title="国际" tvg-id="MTVClassic.us",MTV Classic
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+#EXTINF:-1 tvg-chno="96" group-title="国际" tvg-id="MTVClassic.us",MTV Classic
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+#EXTINF:-1 tvg-chno="97" group-title="国际" tvg-id="MusicBoxClassic.cz",Music Box Classic
+http://88.212.15.19/live/mb_classic/index.m3u8
+#EXTINF:-1 tvg-chno="98" group-title="国际" tvg-id="MyTimeMovieNetworkEast.us",MyTime Movie Network East
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="99" group-title="国际" tvg-id="MyTimeMovieNetworkEast.us",MyTime Movie Network East
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="100" group-title="国际" tvg-id="NickelodeonClassico.us",Nickelodeon Classico
+https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
+#EXTINF:-1 tvg-chno="101" group-title="国际" tvg-id="NonStopKungFu.se",NonStop Kung Fu
+https://jmp2.uk/plu-6728d2be529ac9000830dc15.m3u8
+#EXTINF:-1 tvg-chno="102" group-title="国际" tvg-id="NonStopKungFu.se",NonStop Kung Fu
+https://jmp2.uk/plu-6728d33f030a2c0008edf4be.m3u8
+#EXTINF:-1 tvg-chno="103" group-title="国际" tvg-id="NOST.us",NOST
+https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
+#EXTINF:-1 tvg-chno="104" group-title="国际" tvg-id="Nostalgia.ru",Nostalgia
+http://176.118.197.101/Nostalgiya/index.m3u8
+#EXTINF:-1 tvg-chno="105" group-title="国际" tvg-id="Nostalgia.ru",Nostalgia
+http://str2.iptvhd.ru:8080/Nostalgiya/index.m3u8
+#EXTINF:-1 tvg-chno="106" group-title="国际" tvg-id="Nostalgia.ru",Nostalgia
+https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-chno="107" group-title="国际" tvg-id="OscarMoviesBhojpuri.in",Oscar Movies Bhojpuri
+https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-chno="108" group-title="国际" tvg-id="PersianaNostalgia.fr",Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-chno="109" group-title="国际" tvg-id="PlutoTVAnimeMovies.us",Pluto TV Anime Movies
+https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
+#EXTINF:-1 tvg-chno="110" group-title="国际" tvg-id="PlutoTVCineClassicos.us",Pluto TV Cine Classicos
+https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
+#EXTINF:-1 tvg-chno="111" group-title="国际" tvg-id="PlutoTVDesenhosClassicos.us",Pluto TV Desenhos Classicos
+https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
+#EXTINF:-1 tvg-chno="112" group-title="国际" tvg-id="PlutoTVFilm.de",Pluto TV Film
+https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
+#EXTINF:-1 tvg-chno="113" group-title="国际" tvg-id="PlutoTVFilm.se",Pluto TV Film
+https://jmp2.uk/plu-61c09515fbb4b50007d221f5.m3u8
+#EXTINF:-1 tvg-chno="114" group-title="国际" tvg-id="PlutoTVFilm.se",Pluto TV Film
+https://jmp2.uk/plu-61c0afa0a09bbe00078f8378.m3u8
+#EXTINF:-1 tvg-chno="115" group-title="国际" tvg-id="PlutoTVFilmAncoraPiuRomantici.de",Pluto TV Film Ancora Piu Romantici
+https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8
+#EXTINF:-1 tvg-chno="116" group-title="国际" tvg-id="PlutoTVFilmAzione.de",Pluto TV Film Azione
+https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
+#EXTINF:-1 tvg-chno="117" group-title="国际" tvg-id="PlutoTVFilmCommedia.de",Pluto TV Film Commedia
+https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
+#EXTINF:-1 tvg-chno="118" group-title="国际" tvg-id="PlutoTVFilmRomantici.de",Pluto TV Film Romantici
+https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
+#EXTINF:-1 tvg-chno="119" group-title="国际" tvg-id="PlutoTVFilmesAcao.us",Pluto TV Filmes Acao
+https://jmp2.uk/plu-5f120f41b7d403000783a6d6.m3u8
+#EXTINF:-1 tvg-chno="120" group-title="国际" tvg-id="PlutoTVKlassisketegnefilm.se",Pluto TV Klassiske tegnefilm
+https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8
+#EXTINF:-1 tvg-chno="121" group-title="国际" tvg-id="PlutoTVKlassisketegnefilmer.se",Pluto TV Klassiske tegnefilmer
+https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8
+#EXTINF:-1 tvg-chno="122" group-title="国际" tvg-id="PlutoTVKultfilmer.se",Pluto TV Kultfilmer
+https://jmp2.uk/plu-63dbe80f60bc8f0008aa7c78.m3u8
+#EXTINF:-1 tvg-chno="123" group-title="国际" tvg-id="PlutoTVMovies.de",Pluto TV Movies
+https://jmp2.uk/plu-5ad8d3a31b95267e225e4e09.m3u8
+#EXTINF:-1 tvg-chno="124" group-title="国际" tvg-id="PlutoTVRetro.us",Pluto TV Retro
+https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
+#EXTINF:-1 tvg-chno="125" group-title="国际" tvg-id="PlutoTVRetroKid.us",Pluto TV Retro Kid
+https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8
+#EXTINF:-1 tvg-chno="126" group-title="国际" tvg-id="PlutoTVRetroToons.de",Pluto TV Retro Toons
+https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
+#EXTINF:-1 tvg-chno="127" group-title="国际" tvg-id="PlutoTVRetroToons.de",Pluto TV Retro Toons
+https://jmp2.uk/plu-611e6a9b4bb5790007a6f0f8.m3u8
+#EXTINF:-1 tvg-chno="128" group-title="国际" tvg-id="PlutoTVTegnefilm.se",Pluto TV Tegnefilm
+https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
+#EXTINF:-1 tvg-chno="129" group-title="国际" tvg-id="PlutoTVTegnefilm.se",Pluto TV Tegnefilm
+https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8
+#EXTINF:-1 tvg-chno="130" group-title="国际" tvg-id="PlutoTVThrillers.de",Pluto TV Thrillers
+https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8
+#EXTINF:-1 tvg-chno="131" group-title="国际" tvg-id="RakutenTVActionMovies.es",Rakuten TV Action Movies
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 tvg-chno="132" group-title="国际" tvg-id="RakutenTVActionMovies.es",Rakuten TV Action Movies
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+#EXTINF:-1 tvg-chno="133" group-title="国际" tvg-id="RakutenTVActionMovies.es",Rakuten TV Action Movies
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
+#EXTINF:-1 tvg-chno="134" group-title="国际" tvg-id="RakutenTVActionMovies.es",Rakuten TV Action Movies
+https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8
+#EXTINF:-1 tvg-chno="135" group-title="国际" tvg-id="RakutenTVComedyMovies.es",Rakuten TV Comedy Movies
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
+#EXTINF:-1 tvg-chno="136" group-title="国际" tvg-id="RakutenTVComedyMovies.es",Rakuten TV Comedy Movies
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 tvg-chno="137" group-title="国际" tvg-id="RakutenTVComedyMovies.es",Rakuten TV Comedy Movies
+https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8
+#EXTINF:-1 tvg-chno="138" group-title="国际" tvg-id="RakutenTVComedyMovies.es",Rakuten TV Comedy Movies
+https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
+#EXTINF:-1 tvg-chno="139" group-title="国际" tvg-id="RakutenTVFamilyMovies.es",Rakuten TV Family Movies
+https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
+#EXTINF:-1 tvg-chno="140" group-title="国际" tvg-id="RakutenTVFamilyMovies.es",Rakuten TV Family Movies
+https://758ee983d61e400381dea6fa8154f4e0.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6227/master.m3u8
+#EXTINF:-1 tvg-chno="141" group-title="国际" tvg-id="RakutenTVFamilyMovies.es",Rakuten TV Family Movies
+https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
+#EXTINF:-1 tvg-chno="142" group-title="国际" tvg-id="RakutenTVFamilyMovies.es",Rakuten TV Family Movies
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+#EXTINF:-1 tvg-chno="143" group-title="国际" tvg-id="RakutenTVFamilyMovies.es",Rakuten TV Family Movies
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+#EXTINF:-1 tvg-chno="144" group-title="国际" tvg-id="RakutenTVNordicFilms.es",Rakuten TV Nordic Films
+https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8
+#EXTINF:-1 tvg-chno="145" group-title="国际" tvg-id="RakutenTVTopMovies.es",Rakuten TV Top Movies
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:-1 tvg-chno="146" group-title="国际" tvg-id="RakutenTVTopMovies.es",Rakuten TV Top Movies
+https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
+#EXTINF:-1 tvg-chno="147" group-title="国际" tvg-id="RakutenTVTopMovies.es",Rakuten TV Top Movies
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
+#EXTINF:-1 tvg-chno="148" group-title="国际" tvg-id="RakutenTVTopMovies.es",Rakuten TV Top Movies
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+#EXTINF:-1 tvg-chno="149" group-title="国际" tvg-id="Retro.ru",Retro
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 tvg-chno="150" group-title="国际" tvg-id="Retro.ru",Retro
+http://str2.iptvhd.ru:8080/Retro/index.m3u8
+#EXTINF:-1 tvg-chno="151" group-title="国际" tvg-id="Retro.ru",Retro
+http://stream.mcquack.net/191/index.m3u8
+#EXTINF:-1 tvg-chno="152" group-title="国际" tvg-id="Retro.ru",Retro
+https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="153" group-title="国际" tvg-id="RetroMusicTV.cz",Retro Music TV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-chno="154" group-title="国际" tvg-id="RetroMusicTV.cz",Retro Music TV
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="155" group-title="国际" tvg-id="RetroPlus2.cl",Retro Plus 2
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="156" group-title="国际" tvg-id="Retroclub.ar",Retroclub
+https://video03.logicahost.com.br/retroclub02/retroclub02/playlist.m3u8
+#EXTINF:-1 tvg-chno="157" group-title="国际" tvg-id="RetroCrush.us",RetroCrush
+https://d2nqmwm1ndpgi2.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-chno="158" group-title="国际" tvg-id="RotanaCinemaEgypt.eg",Rotana Cinema Egypt
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-chno="159" group-title="国际" tvg-id="RotanaCinemaKSA.sa",Rotana Cinema KSA
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-chno="160" group-title="国际" tvg-id="RotanaClassic.sa",Rotana Classic
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-chno="161" group-title="国际" tvg-id="RTLGold.hu",RTL Gold
+https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-chno="162" group-title="国际" tvg-id="ShubhCinemaTV.in",Shubh Cinema TV
+https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8
+#EXTINF:-1 tvg-chno="163" group-title="国际" tvg-id="SonyMovies.br",Sony Movies
+http://168.197.104.22/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-chno="164" group-title="国际" tvg-id="SonyMovies.br",Sony Movies
+http://170.83.16.50/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-chno="165" group-title="国际" tvg-id="SonyMovies.br",Sony Movies
+http://45.162.64.114/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-chno="166" group-title="国际" tvg-id="StarMaaMovies.in",Star Maa Movies
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-chno="167" group-title="国际" tvg-id="StarTrekMovies.se",Star Trek Movies
+https://jmp2.uk/plu-6400c228498393000878a9b7.m3u8
+#EXTINF:-1 tvg-chno="168" group-title="国际" tvg-id="StarTrekMovies.se",Star Trek Movies
+https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
+#EXTINF:-1 tvg-chno="169" group-title="国际" tvg-id="StingrayClassicRock.ca",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-chno="170" group-title="国际" tvg-id="StingrayClassica.ca",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-chno="171" group-title="国际" tvg-id="TheMovieClub.in",The Movie Club
+https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
+#EXTINF:-1 tvg-chno="172" group-title="国际" tvg-id="TheMovieClub.in",The Movie Club
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+#EXTINF:-1 tvg-chno="173" group-title="国际" tvg-id="TheRetroChannel.pr",The Retro Channel
+https://583ed2f226ac2.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 tvg-chno="174" group-title="国际" tvg-id="TopMoviesPolska.pl",Top Movies Polska
+https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
+#EXTINF:-1 tvg-chno="175" group-title="国际" tvg-id="VClassicTV.cl",V Classic TV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 tvg-chno="176" group-title="国际" tvg-id="VantageClassic.ee",Vantage Classic
+https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8
+#EXTINF:-1 tvg-chno="177" group-title="国际" tvg-id="VantageClassic.ee",Vantage Classic
+https://hls.vantagetv.ee/vclassic_stream/index.m3u8
+#EXTINF:-1 tvg-chno="178" group-title="国际" tvg-id="VevoRetroRock.us",Vevo Retro Rock
+https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
+#EXTINF:-1 tvg-chno="179" group-title="国际" tvg-id="ViafreeMovies.se",Viafree Movies
+https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
+#EXTINF:-1 tvg-chno="180" group-title="国际" tvg-id="ViafreeMovies.se",Viafree Movies
+https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
+#EXTINF:-1 tvg-chno="181" group-title="国际" tvg-id="ViasatExploreClassic.pl",Viasat Explore Classic
+https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
+#EXTINF:-1 tvg-chno="182" group-title="国际" tvg-id="XITEClassicCountry.nl",XITE Classic Country
+https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
+#EXTINF:-1 tvg-chno="183" group-title="国际" tvg-id="ZeeAction.in",Zee Action
+http://107.167.16.138/zeeaction/index.m3u8?token=test
+#EXTINF:-1 tvg-chno="184" group-title="国际" tvg-id="ZeeCinema.in",Zee Cinema
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8

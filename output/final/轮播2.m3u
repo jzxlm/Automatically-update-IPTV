@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" group-title="轮播2" tvg-id="ARTFLIXMovieClassics.us",ARTFLIX Movie Classics
+https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="2" group-title="轮播2" tvg-id="BETClassicsPlutoTV.us",BET Classics Pluto TV
+https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
+#EXTINF:-1 tvg-chno="3" group-title="轮播2" tvg-id="CinCin.de",Cin Cin
+https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
+#EXTINF:-1 tvg-chno="4" group-title="轮播2",Classic Movies
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-chno="5" group-title="轮播2" tvg-id="DiagnosisMurder.se",Diagnosis Murder
+https://jmp2.uk/plu-668bf7dd74f5ec000817e6d1.m3u8
+#EXTINF:-1 tvg-chno="6" group-title="轮播2" tvg-id="Dynasty.de",Dynasty
+https://jmp2.uk/plu-622f48de713e510007f85808.m3u8
+#EXTINF:-1 tvg-chno="7" group-title="轮播2" tvg-id="HappyDays.se",Happy Days
+https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8
+#EXTINF:-1 tvg-chno="8" group-title="轮播2" tvg-id="JAG.se",JAG
+https://jmp2.uk/plu-654a4ab92c1d330008657ae5.m3u8
+#EXTINF:-1 tvg-chno="9" group-title="轮播2" tvg-id="MacGyver.se",MacGyver
+https://jmp2.uk/plu-654a59742c1d33000865a797.m3u8
+#EXTINF:-1 tvg-chno="10" group-title="轮播2" tvg-id="Matlock.se",Matlock
+https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8
+#EXTINF:-1 tvg-chno="11" group-title="轮播2" tvg-id="MissionImpossible.se",Mission Impossible
+https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8
+#EXTINF:-1 tvg-chno="12" group-title="轮播2" tvg-id="MTVCLASSICS.de",MTV CLASSICS
+https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
+#EXTINF:-1 tvg-chno="13" group-title="轮播2" tvg-id="NickelodeonClassics.de",Nickelodeon Classics
+https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
+#EXTINF:-1 tvg-chno="14" group-title="轮播2" tvg-id="ParamountNetwork.us",Paramount Network
+http://4.30.180.36:8420/paramount/index.m3u8?token=test
+#EXTINF:-1 tvg-chno="15" group-title="轮播2" tvg-id="PlutoTVSciFi.us",Pluto TV Sci-Fi
+https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
+#EXTINF:-1 tvg-chno="16" group-title="轮播2" tvg-id="PlutoTVSciFi.de",Pluto TV Sci-Fi
+https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8
+#EXTINF:-1 tvg-chno="17" group-title="轮播2" tvg-id="PlutoTVSciFi.se",Pluto TV Sci-Fi
+https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8
+#EXTINF:-1 tvg-chno="18" group-title="轮播2" tvg-id="Rawhide.se",Rawhide
+https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
+#EXTINF:-1 tvg-chno="19" group-title="轮播2" tvg-id="TalkinLiveClassicsTV.us",Talkin Live Classics TV
+https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8
+#EXTINF:-1 tvg-chno="20" group-title="轮播2" tvg-id="TheWildWildWest.se",The Wild Wild West
+https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8

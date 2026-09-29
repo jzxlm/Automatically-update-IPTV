@@ -1,0 +1,22 @@
+{
+  "input_rows": 750,
+  "playable_input": 750,
+  "final_unique": 750,
+  "categories": {
+    "央视": 25,
+    "卫视": 0,
+    "4K影视": 3,
+    "港澳": 3,
+    "台湾省": 0,
+    "国际": 184,
+    "轮播1": 306,
+    "轮播2": 20,
+    "轮播3": 34,
+    "无奇不有": 4,
+    "经典电影": 43,
+    "恐怖电影": 15,
+    "其他": 113
+  },
+  "epg_policy": "Keep only source-provided tvg-id; no guessed EPG and no fabricated program schedule.",
+  "classification_policy": "Deterministic metadata rules; unknown items stay in 其他."
+}

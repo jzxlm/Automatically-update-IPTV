@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.idea/
+.vscode/
+tools/ffmpeg/
+tools/ffprobe/
+*.exe
+*.log
+auth_state*
+data/*.tmp
